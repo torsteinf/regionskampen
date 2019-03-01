@@ -5,11 +5,10 @@ import Layout from './layout'
 export default class postLayout extends Component {
   render() {
     const { markdownRemark } = this.props.data
+    const { location } = this.props
     return (
-      <Layout>
+      <Layout location={location}>
         <h2>{markdownRemark.frontmatter.title}</h2>
-        <strong>Dommer: </strong> {markdownRemark.frontmatter.dommer}<br />
-        <strong>Bane: </strong> {markdownRemark.frontmatter.bane}
         <div dangerouslySetInnerHTML={{
           __html: markdownRemark.html
         }} />

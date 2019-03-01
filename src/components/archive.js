@@ -1,12 +1,19 @@
-/**
- * Layout component that queries for data
- * with Gatsby's StaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/static-query/
- */
-
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
+
+import styled from 'styled-components'
+
+const ArchiveList = styled.ul`
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  a {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    text-decoration: underline;
+    color: rebeccapurple;
+  }
+`
 
 const POST_ARCHIVE_QUERY = graphql`
 query BlogPostArchive {
@@ -34,14 +41,14 @@ const Archive = () => (
     render={({allMarkdownRemark}) => (
       <>
         <aside>
-          <h3>Archive</h3>
-          <ul>
+          <h3>Arkiv</h3>
+          <ArchiveList>
             {allMarkdownRemark.edges.map(edge => (
               <li key={edge.node.frontmatter.slug}>
               {edge.node.frontmatter.date}: <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>{edge.node.frontmatter.title}</Link>
               </li>
             ))}
-          </ul>
+          </ArchiveList>
           
         </aside>
       </>

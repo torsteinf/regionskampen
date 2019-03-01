@@ -4,7 +4,8 @@ title: "Ingeberg seiret over gladfotballen"
 date: "2003-07-10"
 subject: "kamprapport"
 bane: "Black River Park"
-dommer: "Rune Sandvik"
+dommer: "Vegard Lunde"
+ingress: "Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp."
 ---
 
 **HJELLUM (TG) Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp.**

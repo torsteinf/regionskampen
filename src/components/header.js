@@ -3,11 +3,8 @@ import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
 
-import logo from '../images/logo.svg'
-
 const HeaderWrapper = styled.div`
   background: #524763;
-  margin-bottom: 2.45rem;
   img {
     margin-bottom:0;
     width: 150px;
@@ -17,7 +14,7 @@ const HeaderWrapper = styled.div`
 const HeaderContainer = styled.div`
   margin: 0 auto;
   max-width: 960px;
-  padding: 1rem;
+  padding: 0.5rem;
 `;
 
 const Header = ({ siteTitle }) => (
@@ -37,10 +34,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         > 
-          <img 
-            src={logo}
-            alt="Regionskampens logo"
-          />
+          
           {siteTitle}
         </Link>
       </h1>

@@ -3,9 +3,11 @@ module.exports = {
     title: `Regionskampen`,
     description: `Ridabu mot Ingeberg. En kamp i året.`,
     author: `Torstein Frogner`,
+    siteUrl: `https://regionskampen.net`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -33,6 +35,13 @@ module.exports = {
       options: {
         path: `${__dirname}/src/kamprapporter`,
         name: `kamprapporter`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+        name: `images`
       },
     },
     `gatsby-transformer-remark`,
