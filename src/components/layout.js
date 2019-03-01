@@ -20,7 +20,7 @@ const MainLayout = styled.main`
   margin: 0 auto;
   margin-top: 1rem;
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 4fr;
   grid-gap: 40px;
 `
 
@@ -63,7 +63,6 @@ const Layout = ({ children, location }) => (
           <div>
             {children}
           </div>
-          <Archive />
         </MainLayout>
       </>
     )}
