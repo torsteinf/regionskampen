@@ -2,7 +2,6 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
-import logo from '../images/logo.png'
 import arkiv from '../images/list.svg'
 import kamper from '../images/spillere.svg'
 import statistikk from '../images/growth.svg'
@@ -24,6 +23,7 @@ const HeaderContainer = styled.div`
 const Nav = styled.nav`
   display: flex;
   justify-content: center;
+  align-items: center;
   
 `
 
@@ -35,15 +35,16 @@ const NavItem = styled.div`
   a:hover {
     color: #43CCC1;
   }
-  a svg:hover {
-    fill: #43CCC1;
-  }
   img {
     display: block;
     width: 50px;
     height: 50px;
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
   padding-left: 1rem;
+  justify-content: center;
+  align-items: center;
 `
 
 const DesktopHeader = styled.div`
@@ -51,14 +52,20 @@ const DesktopHeader = styled.div`
   padding-top: 1rem;
   margin-left: 1rem;
   float: left;
-`
-
-const NavFooterOnMobile = styled.div`
-  @media (max-width: 600px) {
+  @media (max-width: 640px) {
     display:none;
   }
 `
 
+const MobileHeader = styled.div`
+  font-size: 4rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  float: left;
+  @media (min-width: 640px) {
+    display:none;
+  }
+`
 
 const Header = ({ siteTitle }) => (
   <HeaderWrapper>
@@ -68,13 +75,22 @@ const Header = ({ siteTitle }) => (
             
             <DesktopHeader>
             <Link to="/" style={{
-              color: `white`,
-              textDecoration: `none`,
-            }}
-          > 
+                color: `white`,
+                textDecoration: `none`,
+              }}
+            > 
               {siteTitle}
               </Link>
             </DesktopHeader>
+            <MobileHeader>
+            <Link to="/" style={{
+                color: `white`,
+                textDecoration: `none`,
+              }}
+            > 
+              R
+              </Link>
+            </MobileHeader>
           
             <Nav>
         <NavItem>

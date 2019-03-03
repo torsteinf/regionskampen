@@ -34,7 +34,7 @@ const LISTING_QUERY = graphql`
 const Cards = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 500px));
-  
+  justify-content: center;
 `
 
 const Post = styled.article`

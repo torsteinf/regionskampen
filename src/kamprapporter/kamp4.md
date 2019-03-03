@@ -16,22 +16,28 @@ bilde: "../images/kamp4.jpg"
 For Ingeberg ble fullstendig tatt på senga etter pause. Ridabu framsto som et helt nytt lag. De presset høyt oppe, var tett oppe i kroppen på motstanderen, og gjenvant ballen i flere farlige posisjoner. Da dommer Simen F. Egeberg blåste for full tid hadde Ingeberg tapt sin 4-2 ledelse. Ridabu hadde vunnet for tredje gang på rad, etter en meget hårfin 5-4 seier.
 
 ###Knallstart
+
 Allerede etter 15 sekunder kom kampen første mål. David Arnesen lurte seg forbi Ingebergforsvaret og satte ballen sikkert til side for Øyvind Fladsrud i Ingeberg målet. Tre minutter senere var samme Arnesen på farten igjen, da han la på til 2-0 for Ridabu. «Da jeg scoret 2-0 målet var jeg sikker på at vi kom til å knuse Ingeberg», kommenterte en sliten men glad Arnesen etter kampen. Han fikk støtte av sine lagkamerater, og Dag Grytli tilføyde: «På 2-0 begynte jeg å tenke på hvor kjedelig det ville være for Ingeberg å bli totalt ydmyket av oss.» Ridabu fortsatte å trykke på, men Ingebergs keeper Fladsrud reddet det som kom. Så kom vendepunktet, med Lars Mikalsen i spissen.
 
 ###Sint på Sundt
+
 Kvelden før oppgjøret hadde Ingebergs Lars Mikalsen og Ridabus Ole Johnny Sundt en disputt, der sistnevnte hevdet at Ridabu hadde full kontroll på Ingebergs lag. Dette fikk Mikalsen til å tenne på alle plugger: «Det går ikke an å ha kontroll på et lag med så mange gode spillere. Vi er rett og slett for gode for at noe lag skal ha kontroll på oss». Etter at Magne Søby hadde redusert for Ingeberg med en scoring av det heldige slaget, startet Mikalsen sitt berømte "Mikko-show". I løpet av de siste 15 minuttene sørget Mikalsen alene for at Ingeberg hadde snudd 1-2 til 4-2, med tre praktscoringer. «Mikalsen var strålende siste perioden av første omgang. Hans avslutninger var av en meget høy klasse, og han viser at han på sitt aller beste er Ingebergs beste spiller. Men vi kan allikevel ikke glemme at vi i denne perioden gav Mikalsen altfor mye spillerom, og at som en følge av dette blomstret ekstra akkurat da», svarte Sundt på spørsmålet om Mikalsen sine fantastiske minutter. «Det er bare å se på toppscorerlista», fnyste Mikalsen da vi fortalte han om Sundt sin kommentar.
 
 ###Seieren på forskudd
+
 Etter den fantastiske snu-opperasjonen var det høy stemning i Ingeberg garderoben i pausen. «Fy søren for et møkkalag vi spiller mot. Jeg har sagt det før og jeg sier det igjen, Zorro er best på hesten», lo Kristian Mykleset. Han fikk støtte av Magne Søby: «Vi har full kontroll, gutta. Ikke bare har jeg kontroll på Ridabuspillerne, jeg har også kontroll på Visa-kortet mitt!» Cato Olastuen gledet seg over ledelsen, og kunne komme med oppsiktsvekkende avsløringer til TG: «Jeg har tatt med meg 1 ½ liter med Cola, men siden vi vinner så skal jeg smake på champagnebrusen til Trond på festen. For nå som vi har vunnet kampen, må vi ha fokus mot å vinne festen».
 I Ridabuleieren var stemningen avslappet og fin. «Vi styrer dette selv, men vi må ville dette. Det blir ingen pils hvis vi taper!», hørte vi noen si inne i Ridabu-garderoben. Like etter var Ridabu på vei ut på banen. TG rakk allikevel en kort kommentar fra Espen Arnesen: «Du hørte sikkert hva som ble sagt i garderoben. Hvis vi taper så blir det ingen pils. Jeg vil nødig brenne inne med 16 flasker Tuborg, så nå har vi ikke noe valg. Kampen må vinnes!»
 
 ###Nytt lag på banen
+
 Ridabu ble stående alene på banen noen minutter før den muntre og seierssikre Ingeberg-gjengen fant det for godt å komme ut til andre omgang. Da kampen omsider ble satt i gang igjen, gikk det ikke lenge før Lars Mikalsen hadde sjansen til å punktere kampen da han knallet ballen i stolpen fra ti meters hold. Dette var den siste ordentlige muligheten Ingeberg hadde i kampen. Derfra og ut skulle det handle om et lag. Ridabu. For i det Mikalsens skudd spratt i stolpen og ut, var det akkurat som et eller annet "kom over" Ridabulaget. De tettet igjen bakover, brøt høyt oppe, og satte Ingeberg under et konstant press. Dag Grytli lagde 3-4 med en flott styring, før Øyvind Monsen satte inn 4-4 og 5-4 etter vanvittige individuelle prestasjoner. I tilegg til de tre målene, skapte Ridabu flust med sjanser, og seieren kunne vært større. Dommer Egeberg blåste av kampen, og Ridabu hadde vunnet sitt tredje regionskampoppgjør på rad. Jubelen sto i taket i Ridabugarderoben etter kampen: «Vi gjorde oppgavene våre. Da vinner vi kamper. Så enkelt er det», sa David Arnesen med et lurt glis. «Egentlig er jeg mest letta over at vi har vunnet. Det er ikke alltid lett å være favoritt, og nå har vi atter bevist hvorfor vi er det», kommenterte Dag Grytli.
 
 ###Fremgang tross tap
+
 Hos Ingeberg var stemningen laber etter å ha gitt fra seg seieren. «Vi taper fullt fortjent i dag. Vi kan allikevel vinne festen. Jeg skal i hvert fall bidra med mitt», fortalte Trond Søby oss etter kampen. «Synes det er framgang jeg. Nå tapte vi bare med 1 mål. Jeg er faktisk såpass fornøyd at jeg tar meg et glass champagnebrus allikevel», smilte en tapper Olastuen. «Jeg er skuffet, men nå gleder jeg meg mest til å dra på byen i kveld. Jeg tror faktisk jeg skal inn på alle utestedene å kikke», var Kristian Mykleset sin kommentar til kampen, og de fremtidige begivenhetene. «Jeg kan spandere en øl på deg Kristian, jeg kan jo bare dra Visakortet mitt», smilte Magne Søby, før han tok turen inn i dusjen for en velfortjent lang og varm dusj.
 
 ###To priser til Mikalsen
+
 Juryen hadde i år som foregående år vurdert spillere til seks kategorier. Prisene, som av mange kategoriseres på nivå med "Kniksen-prisen" og St. Olavsordenen, tilfalt i år følgende helter:  
 Beste keeper: Øyvind Fladsrud (Ingeberg)  
 Beste forsvarer: Magne Søby (Ingeberg)  
@@ -41,6 +47,7 @@ Beste spiss: Lars Mikalsen (Ingeberg)
 Årets spiller: Øyvind Monsen (Ridabu)  
 
 ###Overraskende vinner
+
 Prisene ble delt ut på banketten, der spillere, jury, pluss andre spesielt inviterte gjester gjør opp om tittelen årets "festlag". I fjor vant Ingeberg overlegent over Ridabu, men i år hadde Ridabu skumle hensikter. Ridabu overrasket med høy sigarføring, og vant også kampen om å drikke mest mulig alkohol. Ridabu så ut som å gå mot en knusende seier, da Kristian Mykleset reddet Ingebergs ære ved å spille sangen "Ingeberggutta". Til tross for grove bommerter i teksten som bla. «...vi har til gode å bli slått», og «...ingen skal kunne tukte oss, i hvert fall ingen i blått» har Ingebergsangen det som trengs for å dra i gang egne spillere. Dermed ble stillingen festlagene i mellom uavgjort, men begge lagene måtte se seg slått av en mann. En av gjestene, Magnus Grønsveen, gjorde rent bord og vant festen ene og alene. Med runder rundt mål, suveren ballkontroll og bading i den lokale "bekken" var det lite som kunne toppe Grønnsven sine utrolige prestasjoner. Rundt midnatt forlot spillerne banketten, og skilte lag for å gå på sine favorittsteder på byen. Et år til neste gang...
 
 ## Kampen minutt for minutt
