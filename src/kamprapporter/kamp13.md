@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Fem års ventetid endte i en maktdemonstrasjon uten sidestykke i Regionskamphistorien, da de røde og hvite fra de dype skoger tok fullstendig lurven av mesterne fra Ridabu. Den fullstendige ydmykelsen var komplett i det juryen enstemmig sendte alle prisene til Ingeberg. "
+bilde: "../images/kamp13.jpg"
 ---
 
 **Hjellum: Fem års ventetid endte i en maktdemonstrasjon uten sidestykke i Regionskamphistorien, da de røde og hvite fra de dype skoger tok fullstendig lurven av mesterne fra Ridabu. Den fullstendige ydmykelsen var komplett i det juryen enstemmig sendte alle prisene til Ingeberg.**

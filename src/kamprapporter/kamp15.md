@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "«At motstanderen har ballen mye, er ikke et problem, så lenge vi bruker ballen godt når vi først får den», uttalte Leicester-trener Claudio Ranieri i år og Drillo 67 år før ham igjen. Antakelig hadde Ingeberg-trener Lars «the happy one» Mikalsen fundert litt over dette mens hagearbeidet på Mælumsløkka ble unnagjort i vår. For der årets Ridabu ble stående igjen som en gjeng hodeløse høns etter å ha mistet ballen på motstanderens ballhalvdel for n’te gang, harva Ingebergs offensive spillere inn kontring etter kontring i Regionskampens femtende oppgjør."
+bilde: "../images/593.jpg"
 ---
 
 **Hjellum: «At motstanderen har ballen mye, er ikke et problem, så lenge vi bruker ballen godt når vi først får den», uttalte Leicester-trener Claudio Ranieri i år og Drillo 67 år før ham igjen. Antakelig hadde Ingeberg-trener Lars «the happy one» Mikalsen fundert litt over dette mens hagearbeidet på Mælumsløkka ble unnagjort i vår. For der årets Ridabu ble stående igjen som en gjeng hodeløse høns etter å ha mistet ballen på motstanderens ballhalvdel for n’te gang, harva Ingebergs offensive spillere inn kontring etter kontring i Regionskampens femtende oppgjør.**

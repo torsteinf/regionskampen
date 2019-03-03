@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Etter å ha scoret to mål og tidvis herjet med Ridabu sitt forsvar ville ikke Lars Mikalsen høre snakk om sin egen rolle i Ingebergs 4-1 seier over Ridabu i årets regionskamp. I stedet dro han fram det sterke kollektivet som nøkkelen til suksessen."
+bilde: "../images/593.jpg"
 ---
 
 **HJELLUM: Etter å ha scoret to mål og tidvis herjet med Ridabu sitt forsvar ville ikke Lars Mikalsen høre snakk om sin egen rolle i Ingebergs 4-1 seier over Ridabu i årets regionskamp. I stedet dro han fram det sterke kollektivet som nøkkelen til suksessen.**

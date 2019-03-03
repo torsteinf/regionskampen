@@ -17,7 +17,7 @@ const ArchiveList = styled.ul`
 
 const POST_ARCHIVE_QUERY = graphql`
 query BlogPostArchive {
-  allMarkdownRemark(limit: 5, sort: { 
+  allMarkdownRemark(sort: { 
   	order: DESC,
     fields: [frontmatter___date]
   }) { 

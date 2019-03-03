@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, StaticQuery, graphql } from "gatsby"
+import Img from 'gatsby-image'
 import styled from 'styled-components'
 
 const LISTING_QUERY = graphql`
@@ -16,11 +17,24 @@ const LISTING_QUERY = graphql`
             slug
             date(formatString: "D. MMMM YYYY")
             ingress
+            bilde {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
           }
         }
       }
     }
   }
+`
+
+const Cards = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 500px));
+  
 `
 
 const Post = styled.article`
@@ -47,21 +61,24 @@ const Post = styled.article`
 `
 
 const Listing = () => (
+  <Cards>
   <StaticQuery 
     query={LISTING_QUERY}
     render={({allMarkdownRemark}) => (
+      
       allMarkdownRemark.edges.map(edge => (
         <Post key={edge.node.frontmatter.slug}>
           <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>
+          <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} />
             <h2>{edge.node.frontmatter.title}</h2>
           </Link>
-          <p>{edge.node.frontmatter.date}</p>
           <p>{edge.node.frontmatter.ingress}</p>
           <Link className="read-more" to={`/kamprapporter/${edge.node.frontmatter.slug}`}>Les hele saken</Link>
         </Post>
       ))
+      
     )}
-  />
+  /></Cards>
 )
 
 export default Listing

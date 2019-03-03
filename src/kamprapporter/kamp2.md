@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Rune Sandvik"
 ingress: "Etter sist ukes velfortjente 10-6 tap, var det et tent Ridabu lag som entret gresset tirsdag kveld. Med et par taktiske trekk og full tenning, var Ridabu ugjenkjennelige fra sist kamp, og de var til tider skremmende gode."
+bilde: "../images/593.jpg"
 ---
 
 **HJELLUM (TG) Etter sist ukes velfortjente 10-6 tap, var det et tent Ridabu lag som entret gresset tirsdag kveld. Med et par taktiske trekk og full tenning, var Ridabu ugjenkjennelige fra sist kamp, og de var til tider skremmende gode.** 

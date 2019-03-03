@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Årets regionkamp mellom Ridabu og Ingeberg ble aldri noen thriller. Allerede etter 13 minutter hadde Ridabu scoret 3 ganger, og kampen var i realiteten avgjort, og da Ridabu maskineriet skranglet litt i starten av 2.omgang, viste David Arnesen hvorfor han er regnet som en av Ridabus absolutt viktigste spillere."
+bilde: "../images/kamp4.jpg"
 ---
 
 **Hjellum (TG): Ved pause så det lyst ut for Ingeberg-spillerne. 4-2-ledelsen var fullt fortjent, og spillerne trodde at seieren var i boks. Mens Ingeberg brukte pausen til å planlegge seiersfesten, gikk Ridabu igjennom arbeidsoppgavene sine på nytt. Dermed ble andreomgangen helt annerledes enn den første.**

@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Blæstad"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingebergs stolte krigere forsvarte sitt mål som oldtidens krigere i middelalderen forsvarte sin borg. En mur det nærmest var umulig å bryte igjennom. Men da nullen sprakk, var det kanskje skjebnebestemt at spilleren med størst tilknytning til nevnte periode skulle legge Ingebergs drøm om tre på rad i ruiner."
+bilde: "../images/kamp7.jpg"
 ---
 
 **BLÆSTAD: Ingebergs stolte krigere forsvarte sitt mål som oldtidens krigere i middelalderen forsvarte sin borg. En mur det nærmest var umulig å bryte igjennom. Men da nullen sprakk, var det kanskje skjebnebestemt at spilleren med størst tilknytning til nevnte periode skulle legge Ingebergs drøm om tre på rad i ruiner.**

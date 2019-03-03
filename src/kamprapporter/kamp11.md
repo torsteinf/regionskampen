@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Med kun timer igjen til avspark i jubileumskampen så det mørkt ut for Ridabu. Med kun seks kampklare menn og et rigid regelsystem var håpet i ferd med å slukne for de blå. Da to nær invalide spillere så skuffelsen og resignasjonen bre seg hos de resterende seks, gjorde man et ekstra forsøk. Et forsøk som skulle bli direkte avgjørende for kampen."
+bilde: "../images/kamp11.jpg"
 ---
 
 **Med kun timer igjen til avspark i jubileumskampen så det mørkt ut for Ridabu. Med kun seks kampklare menn og et rigid regelsystem var håpet i ferd med å slukne for de blå. Da to nær invalide spillere så skuffelsen og resignasjonen bre seg hos de resterende seks, gjorde man et ekstra forsøk. Et forsøk som skulle bli direkte avgjørende for kampen.**

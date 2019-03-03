@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Timer før den tolvte utgaven av regionskampen var Ridabus Vegard Lunde satt opp som keeper. Da Henrik Mellum måtte melde avbud, ble det for risikabelt å bruke skadeforfulgte Øyvind Monsen som utespiller, og rokeringer ble gjort. Da dommer Egeberg blåste av for full tid sto Lunde igjen som kampens store spiller med to mål og to assist."
+bilde: "../images/kamp12.jpg"
 ---
 
 **Timer før den tolvte utgaven av regionskampen var Ridabus Vegard Lunde satt opp som keeper. Da Henrik Mellum måtte melde avbud, ble det for risikabelt å bruke skadeforfulgte Øyvind Monsen som utespiller, og rokeringer ble gjort. Da dommer Egeberg blåste av for full tid sto Lunde igjen som kampens store spiller med to mål og to assist.**

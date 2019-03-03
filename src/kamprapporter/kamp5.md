@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg visste at det ville bli vanskelig å slå Ridabu med keeper Fladsrud og forsvarskjempen Magne Søby ute av spill. Dermed la de seg bakpå og satset på et mirakel. En time etterpå var de kronet som Regionmester 2006."
+bilde: "../images/kamp5.jpg"
 ---
 
 **Hjellum (TG): Ingeberg visste at det ville bli vanskelig å slå Ridabu med keeper Fladsrud og forsvarskjempen Magne Søby ute av spill. Dermed la de seg bakpå og satset på et mirakel. En time etterpå var de kronet som Regionmester 2006.**

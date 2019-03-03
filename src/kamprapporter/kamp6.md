@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg gjentok fjorårets suksess da Lars Mikalsen avgjorde kampen til Ingebergs fordel drøye fem minutter før full tid. Dermed.utlignet gutta fra øvre sida av tregrensa Ridabus forsprang i sammendraget."
+bilde: "../images/kamp6.jpg"
 ---
 
 **Dette skulle være året da Ridabu skulle revansjere det forsmedelige fjorårstapet. Ingeberg på sin side skulle bevise at fjorårets noe overraskende seier var mer enn et blaff.**

@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ridabus kaptein Dag Grytli var sjef i begge ender av banen da Ridabu tilslutt sto igjen som Regionsmestere 2011 etter en solid 3-1 seier mot erkefienden Ingeberg. «Kaptein Krig» var banens desiderte ener i en kamp som inneholdt flere frispark i farlig posisjon enn målsjanser."
+bilde: "../images/593.jpg"
 ---
 
 **Hjellum: Ridabus kaptein Dag Grytli var sjef i begge ender av banen da Ridabu tilslutt sto igjen som Regionsmestere 2011 etter en solid 3-1 seier mot erkefienden Ingeberg. «Kaptein Krig» var banens desiderte ener i en kamp som inneholdt flere frispark i farlig posisjon enn målsjanser.**

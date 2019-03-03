@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Med spillere i nye posisjoner, ny taktikk og en relansering av fellesskapsfølelsen, snudde Ridabu den vonde tendensen og slo Ingeberg 5-3 i midtsommersola på Black River Park."
+bilde: "../images/593.jpg"
 ---
 
 **HJELLUM: Med spillere i nye posisjoner, ny taktikk og en relansering av fellesskapsfølelsen, snudde Ridabu den vonde tendensen og slo Ingeberg 5-3 i midtsommersola på Black River Park.**

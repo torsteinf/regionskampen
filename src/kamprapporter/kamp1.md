@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Vegard Lunde"
 ingress: "Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp."
+bilde: "../images/593.jpg"
 ---
 
 **HJELLUM (TG) Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp.**

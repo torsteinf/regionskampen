@@ -6,6 +6,7 @@ subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg så ut til å ha full kontroll og gå mot sin sjette seier i Regionskamp-sammenheng, men en debutant ville det annerledes. Øyvind Torp ble den store helten i det som tross uavgjort, måtte ha føltes som en seier for Ridabu, og et tap for Ingeberg. For Ingeberg var det førende laget kampen igjennom, og var klart bedre enn Ridabu denne september ettermiddagen, men rotet det til på slutten."
+bilde: "../images/593.jpg"
 ---
 
 **Hjellum: Ingeberg så ut til å ha full kontroll og gå mot sin sjette seier i Regionskamp-sammenheng, men en debutant ville det annerledes.**
