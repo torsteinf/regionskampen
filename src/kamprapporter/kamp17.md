@@ -11,3 +11,7 @@ author: "Torstein Frogner"
 ---
 
 Ingeberg vant Regionskampen 2018 2-1. Magnus Grønsveen, Even Egeberg og Espen Arnesen skåret.
+
+![Ridabus lagbilde](../images/kamp17/ridabu.jpg)
+
+![Ingebergs lagbilde](../images/kamp17/ingeberg.jpg)

@@ -24,8 +24,8 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#183B66`,
+        theme_color: `#183B66`,
         display: `minimal-ui`,
         icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
@@ -34,10 +34,6 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-117828415-1",
-        head: false,
-        anonymize: false,
-        respectDNT: true,
-        exclude: ["/preview/**", "/do-not-track/me/too/"],
       },
     },
     {
@@ -49,12 +45,12 @@ module.exports = {
             subsets: [`latin`],
           },
           {
-            family: `Anton`,
+            family: `Josefin Sans`,
             subsets: [`latin`],
           },
           {
             family: `Open Sans`,
-            variants: [`400`, `700`]
+            subsets: [`latin`],
           },
         ],
       },
@@ -73,7 +69,21 @@ module.exports = {
         name: `images`
       },
     },
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        // In your gatsby-transformer-remark plugin array
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 400,
+              wrapperStyle: `float: right;`
+            },
+          },
+        ],
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // 'gatsby-plugin-offline',

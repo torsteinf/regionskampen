@@ -1,10 +1,10 @@
 import React from "react"
-
 import Layout from "../components/layout"
+import Spillergalleri from '../components/spillergalleri'
 
 const SpillerePage = ({location}) => (
   <Layout location={location}>
-    Her kommer liste over spillere.
+    <Spillergalleri />
   </Layout>
 )
 

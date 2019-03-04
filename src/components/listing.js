@@ -35,50 +35,59 @@ const Cards = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 500px));
   justify-content: center;
+  margin-bottom: 2rem;
 `
 
 const Post = styled.article`
   box-shadow: 0px 3px 10px rgba(25, 17, 34, 0.05);
-  padding: 1rem;
-  border-radius: 4px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  padding: 0.5rem;
+  border-radius: 2px;
   margin-bottom: 1rem;
   a {
     color: #000;
     text-decoration: none;
   }
-  h2 {
-    margin-bottom: 1.2rem;
-  }
-  p {
+  div {
     font-size: 0.8rem;
+    text-align: justify;
+    line-height: 1rem;
+  }
+  h2 {
+    margin-bottom: 0.1rem;
   }
   .read-more {
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     font-size: 0.8rem;
     text-decoration: underline;
     color: rebeccapurple;
+  }
+  :hover {
+    box-shadow: 0px 3px 10px rgba(25, 17, 34, 0.15);
+  }
+  img {
+    padding: 0;
   }
 `
 
 const Listing = () => (
   <Cards>
-  <StaticQuery 
-    query={LISTING_QUERY}
-    render={({allMarkdownRemark}) => (
-      
-      allMarkdownRemark.edges.map(edge => (
-        <Post key={edge.node.frontmatter.slug}>
-          <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>
-          <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} />
-            <h2>{edge.node.frontmatter.title}</h2>
-          </Link>
-          <p>{edge.node.frontmatter.ingress}</p>
-          <Link className="read-more" to={`/kamprapporter/${edge.node.frontmatter.slug}`}>Les hele saken</Link>
-        </Post>
-      ))
-      
-    )}
-  /></Cards>
+    <StaticQuery 
+      query={LISTING_QUERY}
+      render={({allMarkdownRemark}) => (
+        allMarkdownRemark.edges.map(edge => (
+          <Post key={edge.node.frontmatter.slug}>
+            <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>
+            <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} />
+              <h2>{edge.node.frontmatter.title}</h2>
+            </Link>
+            <div>{edge.node.frontmatter.ingress}</div>
+            <Link className="read-more" to={`/kamprapporter/${edge.node.frontmatter.slug}`}>Les hele saken</Link>
+          </Post>
+        ))
+        
+      )}
+    />
+  </Cards>
 )
 
 export default Listing

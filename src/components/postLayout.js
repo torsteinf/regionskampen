@@ -6,10 +6,21 @@ import styled from 'styled-components'
 
 const Tekst = styled.div`
   text-align: justify;
-  font-famtily: 'Open Sans';
+  font-famtily: 'Open Sans', Arial, sans-serif;
+  img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    float: right;
+  };
 `
 
-
+const KampWrapper = styled.div`
+  @media (max-width: 1025px) {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+`
 
 export default class postLayout extends Component {
   render() {
@@ -18,11 +29,13 @@ export default class postLayout extends Component {
     return (
       <Layout location={location}>
         <Img fluid={markdownRemark.frontmatter.bilde.childImageSharp.fluid} />
-        <h2>{markdownRemark.frontmatter.title}</h2>
-        <Tekst dangerouslySetInnerHTML={{
-          __html: markdownRemark.html
-        }} />
-        <p>Publisert {markdownRemark.frontmatter.date}</p>
+        <KampWrapper>
+          <h2>{markdownRemark.frontmatter.title}</h2>
+          <Tekst dangerouslySetInnerHTML={{
+            __html: markdownRemark.html
+          }} />
+          <p>Publisert {markdownRemark.frontmatter.date}</p>
+        </KampWrapper>
       </Layout>
     )
   }

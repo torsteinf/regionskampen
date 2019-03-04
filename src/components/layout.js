@@ -10,12 +10,14 @@ import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import styled from 'styled-components'
 import Header from "./header"
+import MobileFooter from './mobilefooter'
 import "./layout.css"
 
 const MainLayout = styled.main`
   max-width: 1000px;
   margin: 0 auto;
   margin-top: 1rem;
+  padding-bottom: 4rem;
   display: grid;
   grid-template-columns: 4fr;
   grid-gap: 40px;
@@ -42,6 +44,8 @@ const Layout = ({ children, location }) => (
             {children}
           </div>
         </MainLayout>
+
+        <MobileFooter />
       </>
     )}
   />

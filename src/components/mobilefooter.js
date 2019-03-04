@@ -1,5 +1,4 @@
 import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
 import arkiv from '../images/list.svg'
@@ -8,11 +7,18 @@ import statistikk from '../images/growth.svg'
 import spillere from '../images/soccer-athlete.svg'
 
 
-const HeaderWrapper = styled.div`
+const FooterWrapper = styled.div`
+  position: fixed;
   background: #183B66;
+  bottom: 0;
+  width: 100%;
+  height: 55px;
+  @media (min-width: 720px) {
+    display:none;
+  }
 `;
 
-const HeaderContainer = styled.div`
+const FooterContainer = styled.div`
   margin: 0 auto;
   max-width: 960px;
   padding: 0.5rem;
@@ -26,9 +32,6 @@ const Nav = styled.nav`
   justify-content: space-evenly;;
   align-items: center;
   margin-right: 1rem;
-  @media (max-width: 720px) {
-    display:none;
-  }  
 `
 
 const NavItem = styled.div`
@@ -41,45 +44,20 @@ const NavItem = styled.div`
   }
   img {
     display: block;
-    width: 40px;
-    height: 40px;
-    padding-bottom: 0;
+    width: 25px;
+    height: 25px;
     margin: 0 auto;
+    
   }
   padding-left: 1rem;
   justify-content: center;
   align-items: center;
+  line-height: 1.6rem;
 `
 
-const DesktopHeader = styled.div`
-  font-size: 4rem;
-  padding-top: 1rem;
-  margin-left: 1rem;
-  float: left;
-  @media (max-width: 900px) {
-    font-size: 2.5rem;
-  }
-  @media (max-width: 720px) {
-    float: none;
-    text-align: center;
-    vertical-align: middle;
-    padding-top: 0.2rem;
-  }
-`
-
-const Header = ({ siteTitle }) => (
-  <HeaderWrapper>
-    <HeaderContainer>
-      <DesktopHeader>
-        <Link to="/" style={{
-          color: `white`,
-          textDecoration: `none`,
-          }}> 
-          {siteTitle}
-        </Link>
-      </DesktopHeader>
-      
-          
+const MobileFooter = () => (
+  <FooterWrapper>
+    <FooterContainer>
       <Nav>
         <NavItem>
           <Link to="/arkiv">
@@ -105,19 +83,9 @@ const Header = ({ siteTitle }) => (
             Spillere
           </Link>
         </NavItem>
-        
-      
       </Nav>
-    </HeaderContainer>
-  </HeaderWrapper>
+    </FooterContainer>
+  </FooterWrapper>
 )
 
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
-}
-
-export default Header
+export default MobileFooter
