@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "regionskampen",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Nettside for Regionskampen - en årlig kamp mellom to lag fra Hamar",
+  "version": "1.0git .0",
+  "author": "Torstein Frogner <tfrogner@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.1.18",
@@ -44,9 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/torsteinf/regionskampen"
   }
 }
