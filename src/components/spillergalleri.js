@@ -148,6 +148,11 @@ const Bildetekst = styled.div`
   font-family: 'Josefin Sans', 'Arial', sans-serif;
   font-size: 1.6rem;
   opacity: .8;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 `
 
 export default class Spillergalleri extends Component {

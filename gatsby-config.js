@@ -22,12 +22,12 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Regionskampen`,
-        short_name: `Regionskampen`,
+        short_name: `Regionskamp`,
         start_url: `/`,
         background_color: `#183B66`,
         theme_color: `#183B66`,
         display: `minimal-ui`,
-        icon: `src/images/logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo-blue.png`, // This path is relative to the root of the site.
         include_favicon: true, // Include favicon
       },
     },

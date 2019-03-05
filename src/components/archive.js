@@ -4,16 +4,21 @@ import { StaticQuery, graphql, Link } from "gatsby"
 import styled from 'styled-components'
 
 const ArkivWrapper = styled.div`
-  padding: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 `
 
 const ArchiveList = styled.ul`
   margin: 0;
   list-style: none;
+  font-size: 1rem;
   a {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     text-decoration: underline;
     color: rebeccapurple;
+  }
+  @media (max-width: 640px) {
+    font-size: 0.7rem;
   }
 `
 
@@ -29,7 +34,7 @@ query BlogPostArchive {
         frontmatter { 
           title
           slug
-          date
+          date(formatString: "D. MMMM YYYY")
         }
       }
     }

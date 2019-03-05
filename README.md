@@ -1,6 +1,6 @@
 # Regionskampen
 
-En statisk nettside laget med [Gatsby](https://www.gatsbyjs.org) og React. Denne siden kan installeres som en progressiv webapp.
+En statisk nettside laget med [Gatsby](https://www.gatsbyjs.org) og React. Denne siden kan installeres som en progressiv webapp ved hjelp av en plugin fra Gatsby. 
 
 CSS via [Styled Components](https://www.styled-components.com/).
 

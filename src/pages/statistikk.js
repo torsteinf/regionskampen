@@ -1,11 +1,12 @@
 import React from "react"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
+import Statistikk from '../components/statistikk'
 
 const StatistikkPage = ({location}) => (
   <Layout location={location}>
     <SEO title="Statistikk" />
-    Her kommer det statistikk.
+    <Statistikk />
   </Layout>
 )
 
