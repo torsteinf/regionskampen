@@ -21,7 +21,7 @@ const MainLayout = styled.main`
   display: grid;
   grid-template-columns: 4fr;
   grid-gap: 40px;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', 'Arial', sans-serif;
 `
 
 const Layout = ({ children, location }) => (

@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import Layout from './layout'
 import Img from 'gatsby-image'
 import styled from 'styled-components'
+import SEO from "../components/seo"
 
 const Tekst = styled.div`
   text-align: justify;
@@ -28,6 +29,7 @@ export default class postLayout extends Component {
     const { location } = this.props
     return (
       <Layout location={location}>
+        <SEO title={markdownRemark.frontmatter.title} />
         <Img fluid={markdownRemark.frontmatter.bilde.childImageSharp.fluid} />
         <KampWrapper>
           <h2>{markdownRemark.frontmatter.title}</h2>
