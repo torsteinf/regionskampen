@@ -40,7 +40,7 @@ const Cards = styled.div`
 
 const Post = styled.article`
   box-shadow: 0px 3px 10px rgba(25, 17, 34, 0.05);
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   padding: 0.5rem;
   border-radius: 2px;
   margin-bottom: 1rem;

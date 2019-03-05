@@ -15,7 +15,7 @@ const HeaderWrapper = styled.div`
 const HeaderContainer = styled.div`
   margin: 0 auto;
   max-width: 960px;
-  padding: 0.5rem;
+  padding-top: 0.5rem;
   font-family: 'Josefin Sans', 'Arial', sans-serif;
   line-height: 50px;
   vertical-align: middle;
@@ -54,7 +54,6 @@ const NavItem = styled.div`
 const DesktopHeader = styled.div`
   font-size: 4rem;
   padding-top: 1rem;
-  margin-left: 1rem;
   float: left;
   @media (max-width: 900px) {
     font-size: 2.5rem;

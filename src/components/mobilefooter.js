@@ -1,6 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
 import styled from 'styled-components'
+import logo from '../images/logo.png'
 import arkiv from '../images/list.svg'
 import kamper from '../images/spillere.svg'
 import statistikk from '../images/growth.svg'
@@ -59,6 +60,12 @@ const MobileFooter = () => (
   <FooterWrapper>
     <FooterContainer>
       <Nav>
+        <NavItem>
+          <Link to="/">
+            <img src={logo} alt="regionskampenlogo" />
+            Hjem
+          </Link>
+        </NavItem>
         <NavItem>
           <Link to="/arkiv">
             <img src={arkiv} alt="arkivlogo" />

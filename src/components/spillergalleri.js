@@ -145,7 +145,7 @@ const Bildetekst = styled.div`
   display: flex;
   justify-content: center;
   color: #f1fff4;
-  font-family: 'Anton', 'Arial';
+  font-family: 'Josefin Sans', 'Arial', sans-serif;
   font-size: 1.6rem;
   opacity: .8;
 `
