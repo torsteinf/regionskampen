@@ -21,13 +21,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Regionskampen`,
+        short_name: `Regionskampen`,
         start_url: `/`,
         background_color: `#183B66`,
         theme_color: `#183B66`,
         display: `minimal-ui`,
         icon: `src/images/logo.png`, // This path is relative to the root of the site.
+        include_favicon: true, // Include favicon
       },
     },
     {
@@ -86,6 +87,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // 'gatsby-plugin-offline',
+    'gatsby-plugin-offline',
   ],
 }

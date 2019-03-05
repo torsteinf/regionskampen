@@ -5,3 +5,14 @@
  */
 
 // You can delete this file if you're not using it
+
+exports.onServiceWorkerUpdateReady = () => {
+  const answer = window.confirm(
+    `Regionskampen har blitt oppdatert. ` +
+      `Vil du laste inn den nyeste versjonen?`
+  )
+
+  if (answer === true) {
+    window.location.reload()
+  }
+}
