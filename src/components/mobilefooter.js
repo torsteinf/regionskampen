@@ -62,7 +62,7 @@ const MobileFooter = () => (
       <Nav>
         <NavItem>
           <Link to="/">
-            <img src={logo} alt="regionskampenlogo" />
+            <img src={logo} activeClassName="active" alt="regionskampenlogo" />
             Hjem
           </Link>
         </NavItem>

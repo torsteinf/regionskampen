@@ -2,7 +2,7 @@
   "name": "regionskampen",
   "private": true,
   "description": "Nettside for Regionskampen - en årlig kamp mellom to lag fra Hamar",
-  "version": "1.0git .0",
+  "version": "1.0.0",
   "author": "Torstein Frogner <tfrogner@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",

@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import styled from 'styled-components'
+import SEO from "../components/seo"
 import { Link } from 'gatsby'
 
 const KampBoks = styled.section`
@@ -18,6 +19,7 @@ const KampBoksOverskrift = styled.div`
 
 const KampstatistikkPage = ({location}) => (
   <Layout location={location}>
+    <SEO title="Kampene" />
     <KampBoks>
       <KampBoksOverskrift>9. juli 2003: Ridabu-Ingeberg 6 - 10</KampBoksOverskrift>
         Målskårere: Sundt (2), Velle, Johansen, Grytli og Mellum - Ridabu. Mikalsen (4), T. Søby (3), Bevolden, M. Søby og Mykleset - Ingeberg.<br />
