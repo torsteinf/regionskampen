@@ -53,7 +53,7 @@ export const query = graphql`
       html
       frontmatter {
         title
-        date(formatString: "D. MMMM YYYY")
+        date(locale:"nb", formatString: "D. MMMM YYYY")
         bane
         dommer
         bilde {

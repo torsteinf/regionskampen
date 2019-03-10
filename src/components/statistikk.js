@@ -47,6 +47,20 @@ export class Statistikk extends Component {
         <li>1 stjerne: Hans Magnus Gjerlaug</li>
       </ul>
 
+      <h3>Kamper spilt </h3>
+      <li>17 kamper: Even Egeberg, Lars Mikalsen og Trond Søby</li>
+      <li>16 kamper: Torstein Frogner, Dag Grytli og Ole Johnny Sundt</li>
+      <li>15 kamper: Brage Bevolden</li>
+      <li>14 kamper: David Arnesen, Cato Olastuen, Magne Søby og Amund Torp</li>
+      <li>13 kamper: Henrik Mellum</li>
+      <li>12 kamper: Espen Arnesen og Kristian Mykleset og Sindre Øverstad</li>
+      <li>10 kamper: Magnus Grønsveen  </li>
+      <li>9 kamper: Remi Farmen, Vegard Grandum og Øyvind Monsen</li>
+      <li>6 kamper: Edvard Erken, Hans Magnus Gjerlaug og Jon Arne Johansen.</li>
+      <li>3 kamper: Øyvind Fladsrud og Øyvind Torp.</li>
+      <li>2 kamper: Gudmund Velle.</li>
+      <li>1 kamp: Anders Busterud, Sindre Eide og Lars Mathias Nes.</li>
+      
     </StatistikkWrapper>
     )
   }
