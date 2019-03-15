@@ -1,12 +1,98 @@
 ---
 slug: "mikalsen-herjet-da-kollektivet-seiret"
 title: "Mikalsen herjet da kollektivet seiret"
-date: "2009-07-22"
+publishdate: "2009-07-22"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Etter å ha scoret to mål og tidvis herjet med Ridabu sitt forsvar ville ikke Lars Mikalsen høre snakk om sin egen rolle i Ingebergs 4-1 seier over Ridabu i årets regionskamp. I stedet dro han fram det sterke kollektivet som nøkkelen til suksessen."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 8
+date: "2009-07-11"
+attendance: 5
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Ingen"
+]
+ridabu_final_score: 1
+ridabu_pause_score: 1
+ingeberg_final_score: 4
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Vegard Grandum",
+  "Hans Magnus Gjerlaug",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Amund Torp",
+  "Henrik Mellum",
+  "Øyvind Monsen",
+  "Ole Johnny Sundt",
+  "Torstein Frogner",
+  "Jon Arne Johansen"
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Magne Søby",
+  "Kristian Mykleset",
+  "Cato Olastuen",
+  "Brage Bevolden",
+  "Even Egeberg",
+  "Trond Søby",
+  "Sindre Øverstad",
+  "Lars Mikalsen"
+]
+goals_ridabu: [
+  {
+    player: "Henrik Mellum",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 2
+  },
+  {
+    player: "Magne Søby",
+    number_of_goals: 1
+  },
+  {
+    player: "Jon Arne Johansen(sjølmål)",
+    number_of_goals": 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 3
+  },
+  {
+    player: "Dag Grytli",
+    number_of_stars: 2
+  },
+  {
+    player: "Hans Magnus Gjerlaug",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 3
+  },
+  {
+    player: "Trond Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Magne Søby",
+    number_of_stars: 1
+  }
+]
 ---
 
 **HJELLUM: Etter å ha scoret to mål og tidvis herjet med Ridabu sitt forsvar ville ikke Lars Mikalsen høre snakk om sin egen rolle i Ingebergs 4-1 seier over Ridabu i årets regionskamp. I stedet dro han fram det sterke kollektivet som nøkkelen til suksessen.**

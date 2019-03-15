@@ -1,12 +1,98 @@
 ---
 slug: "viljestyrken-seiret-tre-strake-for-ridabu"
 title: "Viljestyrken seiret – tre strake for Ridabu"
-date: "2011-07-11"
+publishdate: "2011-07-11"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Med kun timer igjen til avspark i jubileumskampen så det mørkt ut for Ridabu. Med kun seks kampklare menn og et rigid regelsystem var håpet i ferd med å slukne for de blå. Da to nær invalide spillere så skuffelsen og resignasjonen bre seg hos de resterende seks, gjorde man et ekstra forsøk. Et forsøk som skulle bli direkte avgjørende for kampen."
 bilde: "../images/kamp11.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 11
+date: "2012-07-14"
+attendance: 30
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: ["Ingen"]
+ridabu_final_score: 4
+ridabu_pause_score: 2
+ingeberg_final_score: 1
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Anders Busterud",
+  "Henrik Mellum",
+  "Amund Torp",
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Torstein Frogner" 
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Even Egeberg",
+  "Kristian Mykleset",
+  "Sindre Øverstad",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Cato Olastuen",
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Torstein Frogner",
+    number_of_goals: 1
+  },
+  {
+    player: "David Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_goals: 1
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_goals": 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Amund Torp",
+    number_of_stars: 3
+  },
+  {
+    player: "Dag Grytli",
+    number_of_stars: 2
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_stars: 2
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Med kun timer igjen til avspark i jubileumskampen så det mørkt ut for Ridabu. Med kun seks kampklare menn og et rigid regelsystem var håpet i ferd med å slukne for de blå. Da to nær invalide spillere så skuffelsen og resignasjonen bre seg hos de resterende seks, gjorde man et ekstra forsøk. Et forsøk som skulle bli direkte avgjørende for kampen.**

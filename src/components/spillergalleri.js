@@ -189,3 +189,4 @@ export default class Spillergalleri extends Component {
     )
   }
 }
+

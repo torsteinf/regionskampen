@@ -1,12 +1,105 @@
 ---
 slug: "rod-dominans-og-game-on-i-sammendraget"
 title: "Rød dominans og «game on» i sammendraget!"
-date: "2018-04-13"
+publishdate: "2018-04-13"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Årets kamp begynte akkurat slik de siste tre-fire kampen har gjort. Tempoet var skrekkelig lavt, pusten var tung og touchene bar preg av at få av de 16-18 involverte beina hadde spilt spesielt mye fotball siden i fjor. Best av alle innledningsvis, var bana, som banemester Pandum hadde vært sjeldent heldig med denne sene mai-ettermiddagen. Dommer Egeberg virket også opplagt, der han som vanlig la en høy list for hva man kunne tillate seg for å stoppe motstanderen og for å få seg en pust i bakken."
 bilde: "../images/kamp16.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 16
+date: "2017-05-27"
+attendance: 35
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [""]
+ridabu_final_score: 2
+ridabu_pause_score: 1
+ingeberg_final_score: 8
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Vegard Grandum",
+  "Amund Torp",
+  "Ole Johnny Sundt",
+  "Øyvind Torp",
+  "Dag Grytli",
+  "Henrik Mellum",
+  "David Arnesen",
+  "Torstein Frogner" 
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Even Egeberg",
+  "Cato Olastuen",
+  "Sindre Øverstad",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Torstein Frogner",
+    number_of_goals: 1
+  },
+  {
+    player: "Vegard Grandum",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_goals": 4
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals": 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 1
+  },
+  {
+    player: "Magnus Grønsveen",
+    number_of_goals": 1
+  },
+  {
+    player: "Magne Søby",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 2
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 3
+  },
+  {
+    player: "Trond Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Ridabu dominerte regionskampen i årene mellom ’03-’05. De første fire årene ga tre seire til de blå mot Ingebergs ene. Fra ’06-’09 snudde imidlertid pila for de røde, og før kampen i 2010, var stillingen 4-4 i kamper. Kun et mål skilte den gang lagene, da Ingeberg kunne vise til et mål mer scoret. Dette var for øvrig sist gang Ingeberg var i nærheten av å lede i sammendraget, noe de kun har gjort en gang så langt i historien, etter 10-6 i verdens første regionskamp, i 2003. Fra ’10 til ’13 røk Ingeberg på 4 strake smeller og var for alvor hektet av i kampen om det lokale hegemoniet. Ridabu hadde på det tidspunktet dobbelt så mange seire som arvefienden og ledet plutselig komfortabelt, 8-4. Er det noe historien har vist oss, så er det at dominansen i regionskampen gjerne forekommer i sykluser. Derfor er det kanskje ikke så rart at vi etter regionskamp nr. 16 i historien, nesten er tilbake på scratch, på stillingen 8-7 til de blå (èn kamp har endt uavgjort).**

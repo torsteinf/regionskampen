@@ -1,12 +1,97 @@
 ---
 slug: "lunde-senket-ingeberg-fire-strake-for-ridabu"
 title: "Lunde senket Ingeberg – fire strake for Ridabu"
-date: "2013-06-30"
+publishdate: "2013-06-30"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Timer før den tolvte utgaven av regionskampen var Ridabus Vegard Lunde satt opp som keeper. Da Henrik Mellum måtte melde avbud, ble det for risikabelt å bruke skadeforfulgte Øyvind Monsen som utespiller, og rokeringer ble gjort. Da dommer Egeberg blåste av for full tid sto Lunde igjen som kampens store spiller med to mål og to assist."
 bilde: "../images/kamp12.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 12
+date: "2013-06-29"
+attendance: 25
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: ["Ingen"]
+ridabu_final_score: 4
+ridabu_pause_score: 2
+ingeberg_final_score: 2
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Øyvind Monsen",
+  "Vegard Grandum",
+  "Amund Torp",
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Torstein Frogner" 
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Even Egeberg",
+  "Kristian Mykleset",
+  "Sindre Øverstad",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Vegard Grandum",
+    number_of_goals: 2
+  },
+  {
+    player: "David Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Ole Johnny Sundt",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_goals": 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Vegard Grandum",
+    number_of_stars: 3
+  },
+  {
+    player: "Øyvind Monsen",
+    number_of_stars: 2
+  },
+  {
+    player: "Dag Grytli",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 3
+  },
+  {
+    player: "Trond Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Kristian Mykleset",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Timer før den tolvte utgaven av regionskampen var Ridabus Vegard Lunde satt opp som keeper. Da Henrik Mellum måtte melde avbud, ble det for risikabelt å bruke skadeforfulgte Øyvind Monsen som utespiller, og rokeringer ble gjort. Da dommer Egeberg blåste av for full tid sto Lunde igjen som kampens store spiller med to mål og to assist.**

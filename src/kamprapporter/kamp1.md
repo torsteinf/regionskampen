@@ -1,12 +1,115 @@
 ---
 slug: "ingeberg-seiret-over-gladfotballen"
 title: "Ingeberg seiret over gladfotballen"
-date: "2003-07-10"
+publishdate: "2003-07-10"
 subject: "kamprapport"
-bane: "Black River Park"
-dommer: "Vegard Lunde"
 ingress: "Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 1
+date: "2003-07-09"
+attendance: 5
+ground: "Black River Park"
+referee: "Vegard Grandum"
+yellowcards: [
+  "Edvard Erken",
+  "Trond Søby"
+]
+ridabu_final_score: 6
+ridabu_pause_score: 3
+ingeberg_final_score: 10
+ingeberg_pause_score: 6
+team_ridabu: [
+  "Edvard Erken",
+  "Jon Arne Johansen",
+  "Ole Johnny Sundt",
+  "Gudmund Velle",
+  "Dag Grytli",
+  "Henrik Mellum",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Even Egeberg",
+  "Cato Olastuen",
+  "Kristian Mykleset",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen"
+]
+goals_ridabu: [
+  {
+    player: "Ole Johnny Sundt",
+    number_of_goals: 2
+  },
+  {
+    player: "Gudmund Velle",
+    number_of_goals: 1
+  },
+  {
+    player: "Jon Arne Johansen",
+    number_of_goals: 1
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_goals: 1
+  },
+  {
+    player: "Dag Grytli",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 4
+  },
+  {
+    player: "Trond Søby",
+    number_of_goals": 3
+  },
+  {
+    player: "Kristian Mykleset",
+    number_of_goals": 1
+  },
+  {
+    player: "Brage Bevolden",
+    number_of_goals": 1
+  },
+  {
+    player: "Magne Søby",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 3
+  },
+  {
+    player: "Gudmund Velle",
+    number_of_stars: 2
+  },
+  {
+    player: "Dag Grytli",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Kristian Mykleset",
+    number_of_stars: 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **HJELLUM (TG) Ridabuguttenes forsøk på gladfotball ble effektivt stoppet av et hardtkjempende Ingeberg-lag. Dermed vant Ingeberg tidenes første regionkamp.**

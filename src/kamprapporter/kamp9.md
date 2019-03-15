@@ -1,12 +1,96 @@
 ---
 slug: "kollektivet-slo-sprekker-ridabu-seiret"
 title: "«Kollektivet» slo sprekker – Ridabu seiret"
-date: "2011-04-11"
+publishdate: "2011-04-11"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Med spillere i nye posisjoner, ny taktikk og en relansering av fellesskapsfølelsen, snudde Ridabu den vonde tendensen og slo Ingeberg 5-3 i midtsommersola på Black River Park."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 9
+date: "2010-07-10"
+attendance: 55
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Ingen"
+]
+ridabu_final_score: 5
+ridabu_pause_score: 4
+ingeberg_final_score: 3
+ingeberg_pause_score: 3
+team_ridabu: [
+  "Vegard Grandum",
+  "Hans Magnus Gjerlaug",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Amund Torp",
+  "Henrik Mellum",
+  "Ole Johnny Sundt",
+  "Torstein Frogner" 
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Magne Søby",
+  "Kristian Mykleset",
+  "Cato Olastuen",
+  "Brage Bevolden",
+  "Even Egeberg",
+  "Trond Søby",
+  "Sindre Øverstad",
+  "Lars Mikalsen"
+]
+goals_ridabu: [
+  {
+    player: "David Arnesen",
+    number_of_goals: 3
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_goals: 1
+  },
+  {
+    player: "Amund Torp",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_goals": 3
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_stars: 3
+  },
+  {
+    player: "Brage Bevolden",
+    number_of_stars: 2
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **HJELLUM: Med spillere i nye posisjoner, ny taktikk og en relansering av fellesskapsfølelsen, snudde Ridabu den vonde tendensen og slo Ingeberg 5-3 i midtsommersola på Black River Park.**

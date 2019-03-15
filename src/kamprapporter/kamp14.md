@@ -1,12 +1,101 @@
 ---
 slug: "debutanten-redningsmann-i-tidenes-forste-uavgjort"
 title: "Debutanten redningsmann i tidenes første uavgjort"
-date: "2016-05-28"
+publishdate: "2016-05-28"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg så ut til å ha full kontroll og gå mot sin sjette seier i Regionskamp-sammenheng, men en debutant ville det annerledes. Øyvind Torp ble den store helten i det som tross uavgjort, måtte ha føltes som en seier for Ridabu, og et tap for Ingeberg. For Ingeberg var det førende laget kampen igjennom, og var klart bedre enn Ridabu denne september ettermiddagen, men rotet det til på slutten."
 bilde: "../images/593.jpg"
+match_id: 2
+date: "2015-09-26"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+attendance: 14
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: []
+ridabu_final_score: 4
+ridabu_pause_score: 1
+ingeberg_final_score: 4
+ingeberg_pause_score: 2
+team_ridabu: [
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "Vegard Grandum",
+  "Hans Magnus Gjerlaug",
+  "Amund Torp",
+  "Øyvind Torp",
+  "David Arnesen",
+  "Espen Arnesen"
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Sindre Øverstad",
+  "Even Egeberg",
+  "Magne Søby",
+  "Trond Søby",
+  "Lars Mikalsen",
+  "Cato Olastuen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Øyvind Torp",
+    number_of_goals: 3
+  },
+  {
+    player: "Hans Magnus Gjerlaug",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  
+  {
+    player: "Trond Søby",
+    number_of_goals": 1
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_goals": 1
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals": 1
+  },
+  {
+    player: "Magne Søby",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Øyvind Torp",
+    number_of_stars: 3
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 2
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 2
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum: Ingeberg så ut til å ha full kontroll og gå mot sin sjette seier i Regionskamp-sammenheng, men en debutant ville det annerledes.**

@@ -1,12 +1,84 @@
 ---
 slug: "deilig-revansje-for-ridabu"
 title: "Deilig revansje for Ridabu"
-date: "2003-07-16"
+publishdate: "2003-07-16"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Rune Sandvik"
 ingress: "Etter sist ukes velfortjente 10-6 tap, var det et tent Ridabu lag som entret gresset tirsdag kveld. Med et par taktiske trekk og full tenning, var Ridabu ugjenkjennelige fra sist kamp, og de var til tider skremmende gode."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 2
+date: "2003-07-15"
+attendance: 8
+ground: "Black River Park"
+referee: "Rune Sandvik"
+yellowcards: [
+  "Kristian Mykleset",
+  "Gudmund Velle"
+]
+ridabu_final_score: 3
+ridabu_pause_score: 1
+ingeberg_final_score: 0
+ingeberg_pause_score: 0
+team_ridabu: [
+  "Edvard Erken",
+  "Jon Arne Johansen",
+  "Ole Johnny Sundt",
+  "Gudmund Velle",
+  "Dag Grytli",
+  "Henrik Mellum",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Even Egeberg",
+  "Cato Olastuen",
+  "Kristian Mykleset",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen"
+]
+goals_ridabu: [
+  {
+    player: "Jon Arne Johansen",
+    number_of_goals: 2
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: []
+stars_ridabu: [
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 3
+  },
+  {
+    player: "Edvard Erken",
+    number_of_stars: 2
+  },
+  {
+    player: "Dag Grytli",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Magne Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Kristian Mykleset",
+    number_of_stars: 2
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **HJELLUM (TG) Etter sist ukes velfortjente 10-6 tap, var det et tent Ridabu lag som entret gresset tirsdag kveld. Med et par taktiske trekk og full tenning, var Ridabu ugjenkjennelige fra sist kamp, og de var til tider skremmende gode.** 

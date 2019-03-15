@@ -99,7 +99,7 @@ const Header = ({ siteTitle }) => (
           </Link>
         </NavItem>
         <NavItem>
-          <Link to="/spillere">
+          <Link to="/spillerbilder">
             <img src={spillere} alt="spillere" />
             Spillere
           </Link>

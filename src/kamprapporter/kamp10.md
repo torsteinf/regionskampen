@@ -1,12 +1,100 @@
 ---
 slug: "kaptein-krig-herjet-i-tidenes-knokkelkamp"
 title: "«Kaptein Krig» herjet i tidenes knokkelkamp"
-date: "2011-07-11"
+publishdate: "2011-07-11"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ridabus kaptein Dag Grytli var sjef i begge ender av banen da Ridabu tilslutt sto igjen som Regionsmestere 2011 etter en solid 3-1 seier mot erkefienden Ingeberg. «Kaptein Krig» var banens desiderte ener i en kamp som inneholdt flere frispark i farlig posisjon enn målsjanser."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 10
+date: "2011-07-09"
+attendance: 5
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Cato Olastuen",
+  "Vegard Grandum",
+  "Amund Torp"
+]
+ridabu_final_score: 3
+ridabu_pause_score: 0
+ingeberg_final_score: 1
+ingeberg_pause_score: 0
+team_ridabu: [
+  "Edvard Erken",
+  "Vegard Grandum",
+  "Hans Magnus Gjerlaug",
+  "Dag Grytli",
+  "Øyvind Monsen",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Amund Torp",
+  "Ole Johnny Sundt",
+  "Henrik Mellum",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Kristian Mykleset",
+  "Cato Olastuen",
+  "Brage Bevolden",
+  "Even Egeberg",
+  "Trond Søby",
+  "Sindre Øverstad",  
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Øyvind Monsen",
+    number_of_goals: 1
+  },
+  {
+    player: "Hans Magnus Gjerlaug",
+    number_of_goals: 1
+  },
+  {
+    player: "Dag Grytli",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_goals": 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 2
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_stars: 3
+  },
+  {
+    player: "Brage Bevolden",
+    number_of_stars: 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum: Ridabus kaptein Dag Grytli var sjef i begge ender av banen da Ridabu tilslutt sto igjen som Regionsmestere 2011 etter en solid 3-1 seier mot erkefienden Ingeberg. «Kaptein Krig» var banens desiderte ener i en kamp som inneholdt flere frispark i farlig posisjon enn målsjanser.**

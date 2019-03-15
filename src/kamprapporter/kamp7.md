@@ -1,12 +1,84 @@
 ---
 slug: "arnesen-la-ingebergs-trippeldrom-i-ru(i)ner"
 title: "Arnesen la Ingebergs trippeldrøm i ru(i)ner"
-date: "2009-01-06"
+publishdate: "2009-01-06"
 subject: "kamprapport"
 bane: "Blæstad"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingebergs stolte krigere forsvarte sitt mål som oldtidens krigere i middelalderen forsvarte sin borg. En mur det nærmest var umulig å bryte igjennom. Men da nullen sprakk, var det kanskje skjebnebestemt at spilleren med størst tilknytning til nevnte periode skulle legge Ingebergs drøm om tre på rad i ruiner."
 bilde: "../images/kamp7.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 7
+date: "2008-07-12"
+attendance: 35
+ground: "Blæstad"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Henrik Mellum"
+]
+ridabu_final_score: 1
+ridabu_pause_score: 0
+ingeberg_final_score: 0
+ingeberg_pause_score: 0
+team_ridabu: [
+  "Vegard Grandum",
+  "Hans Magnus Gjerlaug",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Amund Torp",
+  "Henrik Mellum",
+  "Øyvind Monsen",
+  "Ole Johnny Sundt",
+  "Torstein Frogner",
+  "Jon Arne Johansen"
+]
+team_ingeberg: [
+  "Even Egeberg",
+  "Trond Søby",
+  "Sindre Øverstad",
+  "Lars Mikalsen",
+  "Kristian Mykleset",
+  "Cato Olastuen",
+  "Brage Bevolden",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Espen Arnesen",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: []
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 2
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 2
+  },
+  {
+    player: "Brage Bevolden",
+    number_of_stars: 1
+  }
+]
 ---
 
 **BLÆSTAD: Ingebergs stolte krigere forsvarte sitt mål som oldtidens krigere i middelalderen forsvarte sin borg. En mur det nærmest var umulig å bryte igjennom. Men da nullen sprakk, var det kanskje skjebnebestemt at spilleren med størst tilknytning til nevnte periode skulle legge Ingebergs drøm om tre på rad i ruiner.**

@@ -9,13 +9,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
-      },
-    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -27,7 +20,7 @@ module.exports = {
         background_color: `#183B66`,
         theme_color: `#183B66`,
         display: `minimal-ui`,
-        icon: `src/images/logo-blue.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.png`, // This path is relative to the root of the site.
         include_favicon: true, // Include favicon
         crossOrigin: `use-credentials`,
       },
@@ -69,6 +62,13 @@ module.exports = {
       options: {
         path: `${__dirname}/src/images`,
         name: `images`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images/spillere`,
+        name: `spillere`
       },
     },
     "gatsby-transformer-json",

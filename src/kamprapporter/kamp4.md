@@ -1,12 +1,99 @@
 ---
 slug: "ridabu-snudde-mot-ingeberg"
 title: "Ridabu snudde mot Ingeberg"
-date: "2005-07-21"
+publishdate: "2005-07-21"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Årets regionkamp mellom Ridabu og Ingeberg ble aldri noen thriller. Allerede etter 13 minutter hadde Ridabu scoret 3 ganger, og kampen var i realiteten avgjort, og da Ridabu maskineriet skranglet litt i starten av 2.omgang, viste David Arnesen hvorfor han er regnet som en av Ridabus absolutt viktigste spillere."
 bilde: "../images/kamp4.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 4
+date: "2005-07-16"
+attendance: 11
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "David Arnesen"
+]
+ridabu_final_score: 5
+ridabu_pause_score: 2
+ingeberg_final_score: 4
+ingeberg_pause_score: 4
+team_ridabu: [
+  "Edvard Erken",
+  "Vegard Grandum",
+  "Ole Johnny Sundt",
+  "Amund Torp",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Øyvind Monsen",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Øyvind Fladsrud",
+  "Even Egeberg",
+  "Cato Olastuen",
+  "Kristian Mykleset",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen"
+]
+goals_ridabu: [
+  {
+    player: "David Arnesen",
+    number_of_goals: 2
+  },
+  {
+    player: "Øyvind Monsen",
+    number_of_goals: 2
+  },
+  {
+    player: "Dag Grytli",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_goals: 3
+  },
+  {
+    player: "Magne Søby",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Øyvind Monsen",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 3
+  },
+  {
+    player: "Magne Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Øyvind Fladsrud",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum (TG): Ved pause så det lyst ut for Ingeberg-spillerne. 4-2-ledelsen var fullt fortjent, og spillerne trodde at seieren var i boks. Mens Ingeberg brukte pausen til å planlegge seiersfesten, gikk Ridabu igjennom arbeidsoppgavene sine på nytt. Dermed ble andreomgangen helt annerledes enn den første.**

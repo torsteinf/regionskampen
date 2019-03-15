@@ -1,12 +1,102 @@
 ---
 slug: "ridabu-knuste-ingeberg"
 title: "Ridabu knuste Ingeberg"
-date: "2004-08-09"
+publishdate: "2004-08-09"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Årets regionkamp mellom Ridabu og Ingeberg ble aldri noen thriller. Allerede etter 13 minutter hadde Ridabu scoret 3 ganger, og kampen var i realiteten avgjort, og da Ridabu maskineriet skranglet litt i starten av 2.omgang, viste David Arnesen hvorfor han er regnet som en av Ridabus absolutt viktigste spillere."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 3
+date: "2004-08-06"
+attendance: 10
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Henrik Mellum"
+]
+ridabu_final_score: 8
+ridabu_pause_score: 4
+ingeberg_final_score: 3
+ingeberg_pause_score: 0
+team_ridabu: [
+  "Edvard Erken",
+  "Jon Arne Johansen",
+  "Ole Johnny Sundt",
+  "Henrik Mellum",
+  "Torstein Frogner",
+  "Hans Magnus Gjerlaug",
+  "Øyvind Monsen",
+  "David Arnesen"
+]
+team_ingeberg: [
+  "Trond Søby",
+  "Magnus Grønsveen",
+  "Øyvind Fladsrud",
+  "Kristian Mykleset",
+  "Lars Mathias Nes",
+  "Lars Mikalsen",
+  "Even Egeberg",
+  "Sindre Eide"
+]
+goals_ridabu: [
+  {
+    player: "David Arnesen",
+    number_of_goals: 4
+  },
+  {
+    player: "Jon Arne Johansen",
+    number_of_goals: 2
+  },
+  {
+    player: "Ole Johnny Sundt",
+    number_of_goals: 1
+  },
+  {
+    player: "Hans Magnus Gjerlaug",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 2
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Edvard Erken",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Øyvind Fladsrud",
+    number_of_stars: 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 2
+  },
+  {
+    player: "Kristian Mykleset",
+    number_of_stars: 1
+  }
+]
 ---
 
 **HJELLUM (TG) Årets regionkamp mellom Ridabu og Ingeberg ble aldri noen thriller. Allerede etter 13 minutter hadde Ridabu scoret 3 ganger, og kampen var i realiteten avgjort, og da Ridabu maskineriet skranglet litt i starten av 2.omgang, viste David Arnesen hvorfor han er regnet som en av Ridabus absolutt viktigste spillere.**

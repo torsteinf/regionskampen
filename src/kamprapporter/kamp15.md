@@ -1,12 +1,113 @@
 ---
 slug: "happy-campers-ingeberg-sjokkerte-ridabu-med-malkalas"
 title: "Happy campers Ingeberg sjokkerte Ridabu med målkalas"
-date: "2016-06-08"
+publishdate: "2016-06-08"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "«At motstanderen har ballen mye, er ikke et problem, så lenge vi bruker ballen godt når vi først får den», uttalte Leicester-trener Claudio Ranieri i år og Drillo 67 år før ham igjen. Antakelig hadde Ingeberg-trener Lars «the happy one» Mikalsen fundert litt over dette mens hagearbeidet på Mælumsløkka ble unnagjort i vår. For der årets Ridabu ble stående igjen som en gjeng hodeløse høns etter å ha mistet ballen på motstanderens ballhalvdel for n’te gang, harva Ingebergs offensive spillere inn kontring etter kontring i Regionskampens femtende oppgjør."
 bilde: "../images/593.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 15
+date: "2016-05-28"
+attendance: 27
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Edvard Erken",
+  "Trond Søby"
+]
+ridabu_final_score: 4
+ridabu_pause_score: 1
+ingeberg_final_score: 7
+ingeberg_pause_score: 3
+team_ridabu: [
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "Henrik Mellum",
+  "Torstein Frogner",
+  "Amund Torp",
+  "Øyvind Torp",
+  "David Arnesen",
+  "Espen Arnesen"
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Sindre Øverstad",
+  "Even Egeberg",
+  "Cato Olastuen",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  
+  {
+    player: "David Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Amund Torp",
+    number_of_goals: 1
+  },
+  {
+    player: "Dag Grytli",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_goals": 3
+  },
+  {
+    player: "Magnus Grønsveen",
+    number_of_goals": 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 1
+  },
+  {
+    player: "Trond Søby",
+    number_of_goals": 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 2
+  },
+  {
+    player: "Brage Bevolden",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum: «At motstanderen har ballen mye, er ikke et problem, så lenge vi bruker ballen godt når vi først får den», uttalte Leicester-trener Claudio Ranieri i år og Drillo 67 år før ham igjen. Antakelig hadde Ingeberg-trener Lars «the happy one» Mikalsen fundert litt over dette mens hagearbeidet på Mælumsløkka ble unnagjort i vår. For der årets Ridabu ble stående igjen som en gjeng hodeløse høns etter å ha mistet ballen på motstanderens ballhalvdel for n’te gang, harva Ingebergs offensive spillere inn kontring etter kontring i Regionskampens femtende oppgjør.**

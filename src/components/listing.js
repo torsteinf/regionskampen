@@ -11,7 +11,6 @@ const LISTING_QUERY = graphql`
     }) { 
       edges { 
         node {
-          excerpt (pruneLength: 300)
           frontmatter { 
             title
             slug
@@ -36,6 +35,12 @@ const Cards = styled.div`
   grid-template-columns: repeat(auto-fill, minmax(150px, 500px));
   justify-content: center;
   margin-bottom: 2rem;
+  @media (min-width: 600px) and (max-width: 999px) {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 300px));
+  }
+  @media (max-width: 599px){
+    grid-template-columns: repeat(auto-fill, minmax(150px, 620px));
+  }
 `
 
 const Post = styled.article`

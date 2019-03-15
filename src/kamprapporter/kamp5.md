@@ -1,12 +1,93 @@
 ---
 slug: "ingeberg-tok-en-Weissflog-og-seiret"
 title: "Ingeberg tok en Weissflog og seiret"
-date: "2006-07-26"
+publishdate: "2006-07-26"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg visste at det ville bli vanskelig å slå Ridabu med keeper Fladsrud og forsvarskjempen Magne Søby ute av spill. Dermed la de seg bakpå og satset på et mirakel. En time etterpå var de kronet som Regionmester 2006."
 bilde: "../images/kamp5.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 5
+date: "2006-07-15"
+attendance: 25
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Ingen"
+]
+ridabu_final_score: 2
+ridabu_pause_score: 0
+ingeberg_final_score: 3
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Edvard Erken",
+  "Amund Torp",
+  "Espen Arnesen",
+  "Dag Grytli",
+  "David Arnesen",
+  "Henrik Mellum",
+  "Ole Johnny Sundt",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Even Egeberg",
+  "Kristian Mykleset",
+  "Trond Søby",
+  "Sindre Øverstad",
+  "Lars Mikalsen",
+  "Cato Olastuen",
+  "Brage Bevolden"
+]
+goals_ridabu: [
+  {
+    player: "David Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Amund Torp",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 1
+  },
+  {
+    player: "Henrik Mellum(sjølmål)",
+    number_of_goals": 2
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Henrik Mellum",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Even Egeberg",
+    number_of_stars: 3
+  },
+  {
+    player: "Trond Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum (TG): Ingeberg visste at det ville bli vanskelig å slå Ridabu med keeper Fladsrud og forsvarskjempen Magne Søby ute av spill. Dermed la de seg bakpå og satset på et mirakel. En time etterpå var de kronet som Regionmester 2006.**

@@ -150,12 +150,12 @@ const Ingebergstjerner = styled.div`
   text-align: center;
 `
 
-const Kamprapport = ({ children }) => (
+const Kamprapport = () => (
   <StaticQuery
     query={KAMPRAPPORT_QUERY}
-    render={({allDataJson}) => (
+    render={({allMatchesJson}) => (
       <>
-        {allDataJson.edges.map(edge => (
+        {allMatchesJson.edges.map(edge => (
           <Boks key={edge.node.id}>
             <Overskrift className="overskriftstil">FOTBALLFAKTA</Overskrift>
             <Resultat>
@@ -226,8 +226,14 @@ const Kamprapport = ({ children }) => (
 )
 
 const KAMPRAPPORT_QUERY = graphql`
-  query KamprapportElementerQuery {
-    allDataJson { 
+  query KamprapportElementerQuery  {
+    allMatchesJson(
+      filter: {
+        match_id: {
+          eq: 2
+        }
+      }
+    ) { 
       edges { 
         node {
           match_id

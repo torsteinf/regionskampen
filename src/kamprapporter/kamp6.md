@@ -1,12 +1,110 @@
 ---
 slug: "ingebergs-andre-strake"
 title: "Ingebergs andre strake"
-date: "2007-09-26"
+publishdate: "2007-09-26"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Ingeberg gjentok fjorårets suksess da Lars Mikalsen avgjorde kampen til Ingebergs fordel drøye fem minutter før full tid. Dermed.utlignet gutta fra øvre sida av tregrensa Ridabus forsprang i sammendraget."
 bilde: "../images/kamp6.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 6
+date: "2007-07-14"
+attendance: 35
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Ingen"
+]
+ridabu_final_score: 3
+ridabu_pause_score: 2
+ingeberg_final_score: 6
+ingeberg_pause_score: 3
+team_ridabu: [
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "David Arnesen",
+  "Espen Arnesen",
+  "Amund Torp",
+  "Øyvind Monsen",
+  "Torstein Frogner"
+]
+team_ingeberg: [
+  "Øyvind Fladsrud",
+  "Magne Søby",
+  "Trond Søby",
+  "Sindre Øverstad",
+  "Lars Mikalsen",
+  "Kristian Mykleset",
+  "Cato Olastuen",
+  "Brage Bevolden",
+  "Even Egeberg"
+]
+goals_ridabu: [
+  {
+    player: "David Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Espen Arnesen",
+    number_of_goals: 1
+  },
+  {
+    player: "Øyvind Monsen",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_goals": 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_goals": 1
+  },
+  {
+    player: "Sindre Øverstad",
+    number_of_goals": 1
+  },
+  {
+    player: "Cato Olastuen",
+    number_of_goals": 1
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals: 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "David Arnesen",
+    number_of_stars: 2
+  },
+  {
+    player: "Øyvind Monsen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Øyvind Fladsrud",
+    number_of_stars: 3
+  },
+  {
+    player: "Trond Søby",
+    number_of_stars: 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Dette skulle være året da Ridabu skulle revansjere det forsmedelige fjorårstapet. Ingeberg på sin side skulle bevise at fjorårets noe overraskende seier var mer enn et blaff.**

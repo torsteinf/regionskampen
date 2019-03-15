@@ -1,12 +1,95 @@
 ---
 slug: "ingebergs-store-kveld"
 title: "Ingebergs store kveld"
-date: "2015-02-27"
+publishdate: "2015-02-27"
 subject: "kamprapport"
 bane: "Black River Park"
 dommer: "Simen Fossum Egeberg"
 ingress: "Fem års ventetid endte i en maktdemonstrasjon uten sidestykke i Regionskamphistorien, da de røde og hvite fra de dype skoger tok fullstendig lurven av mesterne fra Ridabu. Den fullstendige ydmykelsen var komplett i det juryen enstemmig sendte alle prisene til Ingeberg. "
 bilde: "../images/kamp13.jpg"
+lagbilderidabu: "../images/whiteline.png"
+lagbildeingeberg: "../images/whiteline.png"
+match_id: 13
+date: "2014-06-28"
+attendance: 32
+ground: "Black River Park"
+referee: "Simen Fossum Egeberg"
+yellowcards: [
+  "Vegard Grandum"
+]
+ridabu_final_score: 1
+ridabu_pause_score: 0
+ingeberg_final_score: 3
+ingeberg_pause_score: 1
+team_ridabu: [
+  "Øyvind Monsen",
+  "Ole Johnny Sundt",
+  "Dag Grytli",
+  "Henrik Mellum",
+  "Torstein Frogner",
+  "Amund Torp",
+  "Jon Arne Johansen",
+  "Vegard Grandum"
+]
+team_ingeberg: [
+  "Remi Farmen",
+  "Sindre Øverstad",
+  "Brage Bevolden",
+  "Cato Olastuen",
+  "Magne Søby",
+  "Trond Søby",
+  "Brage Bevolden",
+  "Lars Mikalsen",
+  "Magnus Grønsveen"
+]
+goals_ridabu: [
+  {
+    player: "Brage Bevolden(sjølmål)",
+    number_of_goals: 1
+  }
+]
+goals_ingeberg: [
+  {
+    player: "Magnus Grønsveen",
+    number_of_goals": 1
+  },
+  {
+    player: "Trond Søby",
+    number_of_goals": 1
+  },
+  {
+    player: "Even Egeberg",
+    number_of_goals": 1
+  }
+]
+stars_ridabu: [
+  {
+    player: "Dag Grytli",
+    number_of_stars: 3
+  },
+  {
+    player: "Amund Torp",
+    number_of_stars: 2
+  },
+  {
+    player: "Øyvind Monsen",
+    number_of_stars: 1
+  }
+]
+stars_ingeberg: [
+  {
+    player: "Trond Søby",
+    number_of_stars: 3
+  },
+  {
+    player: "Even Egeberg",
+    number_of_stars: 2
+  },
+  {
+    player: "Lars Mikalsen",
+    number_of_stars: 1
+  }
+]
 ---
 
 **Hjellum: Fem års ventetid endte i en maktdemonstrasjon uten sidestykke i Regionskamphistorien, da de røde og hvite fra de dype skoger tok fullstendig lurven av mesterne fra Ridabu. Den fullstendige ydmykelsen var komplett i det juryen enstemmig sendte alle prisene til Ingeberg.**

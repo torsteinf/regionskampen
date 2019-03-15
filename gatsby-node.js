@@ -10,6 +10,7 @@ exports.createPages = ({ graphql, actions }) => {
             node {
               frontmatter { 
                 slug
+                match_id
               }
             }
           }
@@ -28,5 +29,4 @@ exports.createPages = ({ graphql, actions }) => {
       resolve(); 
     })
   })
-  
 }
