@@ -67,6 +67,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/src/fotoalbum`,
+        name: `fotoalbum`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/src/images/spillere`,
         name: `spillere`
       },
@@ -84,6 +91,7 @@ module.exports = {
       options: {
         // In your gatsby-transformer-remark plugin array
         plugins: [
+          "gatsby-remark-images-grid",
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -91,6 +99,7 @@ module.exports = {
               wrapperStyle: `float: right;`
             },
           },
+          
         ],
       },
     },

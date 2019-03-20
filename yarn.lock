@@ -4897,6 +4897,15 @@ gatsby-react-router-scroll@^2.0.4:
     scroll-behavior "^0.9.9"
     warning "^3.0.0"
 
+gatsby-remark-images-grid@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images-grid/-/gatsby-remark-images-grid-1.0.2.tgz#10416a6f5a9d11d4ce7779eb4adfbef967627e4d"
+  integrity sha512-M8n2CHgWKK3VjDAPGgbTFUk3EV1718VfK5C4Rfi6Nkv06tQyLrZ1bWN+wem5n2csdEywmyK8uLZkkUAGBAzD4g==
+  dependencies:
+    remark-parse "^5.0.0"
+    unified "^7.0.0"
+    unist-util-visit "^1.4.0"
+
 gatsby-remark-images@^3.0.5:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.0.5.tgz#da839b37be6ef40cf4a7cfd32df57c266f41dac8"
