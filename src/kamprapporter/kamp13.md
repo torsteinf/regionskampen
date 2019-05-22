@@ -1,5 +1,5 @@
 ---
-slug: "ingebergs-store-kveld"
+slug: "kamprapporter/ingebergs-store-kveld"
 title: "Ingebergs store kveld"
 publishdate: "2015-02-27"
 subject: "kamprapport"

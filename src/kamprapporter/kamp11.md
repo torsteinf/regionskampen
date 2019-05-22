@@ -1,5 +1,5 @@
 ---
-slug: "viljestyrken-seiret-tre-strake-for-ridabu"
+slug: "kamprapporter/viljestyrken-seiret-tre-strake-for-ridabu"
 title: "Viljestyrken seiret – tre strake for Ridabu"
 publishdate: "2011-07-11"
 subject: "kamprapport"

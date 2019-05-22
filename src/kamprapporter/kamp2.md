@@ -1,5 +1,5 @@
 ---
-slug: "deilig-revansje-for-ridabu"
+slug: "kamprapporter/deilig-revansje-for-ridabu"
 title: "Deilig revansje for Ridabu"
 publishdate: "2003-07-16"
 subject: "kamprapport"

@@ -7,14 +7,14 @@ const LISTING_QUERY = graphql`
   query BlogPostListing {
     allMarkdownRemark(limit: 10, sort: { 
       order: DESC,
-      fields: [frontmatter___date]
+      fields: [frontmatter___publishdate]
     }) { 
       edges { 
         node {
           frontmatter { 
             title
             slug
-            date(formatString: "D. MMMM YYYY")
+            publishdate(formatString: "D. MMMM YYYY")
             ingress
             bilde {
               childImageSharp {
@@ -81,12 +81,12 @@ const Listing = () => (
       render={({allMarkdownRemark}) => (
         allMarkdownRemark.edges.map(edge => (
           <Post key={edge.node.frontmatter.slug}>
-            <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>
+            <Link to={`/${edge.node.frontmatter.slug}`}>
             <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} />
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
             <div>{edge.node.frontmatter.ingress}</div>
-            <Link className="read-more" to={`/kamprapporter/${edge.node.frontmatter.slug}`}>Les hele saken</Link>
+            <Link className="read-more" to={`/${edge.node.frontmatter.slug}`}>Les hele saken</Link>
           </Post>
         ))
         

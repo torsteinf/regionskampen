@@ -1,5 +1,5 @@
 ---
-slug: "lunde-senket-ingeberg-fire-strake-for-ridabu"
+slug: "kamprapporter/lunde-senket-ingeberg-fire-strake-for-ridabu"
 title: "Lunde senket Ingeberg – fire strake for Ridabu"
 publishdate: "2013-06-30"
 subject: "kamprapport"

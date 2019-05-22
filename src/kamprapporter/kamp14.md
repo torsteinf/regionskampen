@@ -1,5 +1,5 @@
 ---
-slug: "debutanten-redningsmann-i-tidenes-forste-uavgjort"
+slug: "kamprapporter/debutanten-redningsmann-i-tidenes-forste-uavgjort"
 title: "Debutanten redningsmann i tidenes første uavgjort"
 publishdate: "2016-05-28"
 subject: "kamprapport"

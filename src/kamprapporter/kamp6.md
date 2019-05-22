@@ -1,5 +1,5 @@
 ---
-slug: "ingebergs-andre-strake"
+slug: "kamprapporter/ingebergs-andre-strake"
 title: "Ingebergs andre strake"
 publishdate: "2007-09-26"
 subject: "kamprapport"

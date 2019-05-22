@@ -1,5 +1,5 @@
 ---
-slug: "kollektivet-slo-sprekker-ridabu-seiret"
+slug: "kamprapporter/kollektivet-slo-sprekker-ridabu-seiret"
 title: "«Kollektivet» slo sprekker – Ridabu seiret"
 publishdate: "2011-04-11"
 subject: "kamprapport"

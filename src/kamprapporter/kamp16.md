@@ -1,5 +1,5 @@
 ---
-slug: "rod-dominans-og-game-on-i-sammendraget"
+slug: "kamprapporter/rod-dominans-og-game-on-i-sammendraget"
 title: "Rød dominans og «game on» i sammendraget!"
 publishdate: "2018-04-13"
 subject: "kamprapport"

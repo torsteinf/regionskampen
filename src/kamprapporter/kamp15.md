@@ -1,5 +1,5 @@
 ---
-slug: "happy-campers-ingeberg-sjokkerte-ridabu-med-malkalas"
+slug: "kamprapporter/happy-campers-ingeberg-sjokkerte-ridabu-med-malkalas"
 title: "Happy campers Ingeberg sjokkerte Ridabu med målkalas"
 publishdate: "2016-06-08"
 subject: "kamprapport"

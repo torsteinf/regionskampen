@@ -1,5 +1,5 @@
 ---
-slug: "ridabu-knuste-ingeberg"
+slug: "kamprapporter/ridabu-knuste-ingeberg"
 title: "Ridabu knuste Ingeberg"
 publishdate: "2004-08-09"
 subject: "kamprapport"

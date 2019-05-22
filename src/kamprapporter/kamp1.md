@@ -1,5 +1,5 @@
 ---
-slug: "ingeberg-seiret-over-gladfotballen"
+slug: "kamprapporter/ingeberg-seiret-over-gladfotballen"
 title: "Ingeberg seiret over gladfotballen"
 publishdate: "2003-07-10"
 subject: "kamprapport"

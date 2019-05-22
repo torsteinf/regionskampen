@@ -30,20 +30,18 @@ export class Statistikk extends Component {
       </ul>
 
       <h3>Stjernehimmelen</h3>
-      <p><em>Det er ikke satt stjerner for 2018-kampen ennå.</em></p>
       <ul>
-        <li>31 stjerner: Dag Grytli</li>
+        <li>33 stjerner: Dag Grytli</li>
         <li>25 stjerner: Trond Søby</li>
         <li>21 stjerner: Even Egeberg</li>
         <li>20 stjerner: Lars Mikalsen</li>
-        <li>16 stjerner: Henrik Mellum</li>
-        <li>13 stjerner: David Arnesen og Amund Torp</li>
+        <li>16 stjerner: David Arnesen og Henrik Mellum</li>
+        <li>13 stjerner: Amund Torp</li>
+        <li>9 stjerner: Magne Søby</li>
         <li>7 stjerner: Øyvind Fladsrud og Øyvind Monsen</li>
-        <li>6 stjerner: Brage Bevolden, Kristian Mykleset og Magne Søby</li>
-        <li>5 stjerner: Cato Olastuen</li>
-        <li>4 stjerner: Espen Arnesen</li>
+        <li>6 stjerner: Espen Arnesen, Brage Bevolden, Kristian Mykleset og Cato Olastuen</li>
         <li>3 stjerner: Edvard Erken, Vegard Grandum og Øyvind Torp</li>
-        <li>2 stjerner: Gudmund Velle</li>
+        <li>2 stjerner: Magnus Grønsveen og Gudmund Velle</li>
         <li>1 stjerne: Hans Magnus Gjerlaug</li>
       </ul>
 

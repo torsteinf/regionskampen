@@ -1,5 +1,5 @@
 ---
-slug: "ingeberg-tok-en-Weissflog-og-seiret"
+slug: "kamprapporter/ingeberg-tok-en-Weissflog-og-seiret"
 title: "Ingeberg tok en Weissflog og seiret"
 publishdate: "2006-07-26"
 subject: "kamprapport"

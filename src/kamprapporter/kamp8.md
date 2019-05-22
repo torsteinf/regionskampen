@@ -1,5 +1,5 @@
 ---
-slug: "mikalsen-herjet-da-kollektivet-seiret"
+slug: "kamprapporter/mikalsen-herjet-da-kollektivet-seiret"
 title: "Mikalsen herjet da kollektivet seiret"
 publishdate: "2009-07-22"
 subject: "kamprapport"

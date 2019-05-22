@@ -1,5 +1,5 @@
 ---
-slug: "kaptein-krig-herjet-i-tidenes-knokkelkamp"
+slug: "kamprapporter/kaptein-krig-herjet-i-tidenes-knokkelkamp"
 title: "«Kaptein Krig» herjet i tidenes knokkelkamp"
 publishdate: "2011-07-11"
 subject: "kamprapport"

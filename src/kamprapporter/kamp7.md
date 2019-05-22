@@ -1,5 +1,5 @@
 ---
-slug: "arnesen-la-ingebergs-trippeldrom-i-ru(i)ner"
+slug: "kamprapporter/arnesen-la-ingebergs-trippeldrom-i-ru(i)ner"
 title: "Arnesen la Ingebergs trippeldrøm i ru(i)ner"
 publishdate: "2009-01-06"
 subject: "kamprapport"

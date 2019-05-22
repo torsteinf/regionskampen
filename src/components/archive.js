@@ -53,7 +53,7 @@ const Archive = () => (
             <ArchiveList>
               {allMarkdownRemark.edges.map(edge => (
                 <li key={edge.node.frontmatter.slug}>
-                {edge.node.frontmatter.publishdate}: <Link to={`/kamprapporter/${edge.node.frontmatter.slug}`}>{edge.node.frontmatter.title}</Link>
+                {edge.node.frontmatter.publishdate}: <Link to={`/${edge.node.frontmatter.slug}`}>{edge.node.frontmatter.title}</Link>
                 </li>
               ))}
             </ArchiveList>

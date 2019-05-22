@@ -19,7 +19,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#183B66`,
         theme_color: `#183B66`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/images/logo.png`, // This path is relative to the root of the site.
         include_favicon: true, // Include favicon
         crossOrigin: `use-credentials`,
@@ -60,6 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/src/nyheter`,
+        name: `nyheter`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/src/images`,
         name: `images`
       },
@@ -91,12 +98,10 @@ module.exports = {
       options: {
         // In your gatsby-transformer-remark plugin array
         plugins: [
-          "gatsby-remark-images-grid",
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 400,
-              wrapperStyle: `float: right;`
+              maxWidth: 1500
             },
           },
           

@@ -2,31 +2,82 @@ const path = require('path')
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
-  return new Promise((resolve, reject) => {
-    graphql(`
+  return graphql(`
       {
-        allMarkdownRemark{ 
+        match: allMarkdownRemark (
+          filter: {
+            fileAbsolutePath: { glob: "**/src/kamprapporter/*.md" }
+          }
+        ) { 
           edges { 
             node {
               frontmatter { 
                 slug
-                match_id
+              }
+            }
+          }
+        }
+        nyheter: allMarkdownRemark (
+          filter: {
+            fileAbsolutePath: { glob: "**/src/nyheter/*.md" }
+          }
+        ) { 
+          edges { 
+            node {
+              frontmatter { 
+                slug
+              }
+            }
+          }
+        }
+        fotoalbum: allMarkdownRemark(
+          filter: {
+            fileAbsolutePath: { glob: "**/src/fotoalbum/*.md" }
+          }
+        ) {
+          edges {
+            node {
+              frontmatter {
+                slug
               }
             }
           }
         }
       }
     `).then(results => {
-      results.data.allMarkdownRemark.edges.forEach(({node}) => {
+
+      //Lager kamprapporter
+      results.data.match.edges.forEach(({node}) => {
         createPage({
-          path: `/kamprapporter/${node.frontmatter.slug}`,
+          path: `/${node.frontmatter.slug}`,
           component: path.resolve('./src/components/postLayout.js'),
           context: {
             slug: node.frontmatter.slug,
           }
         })
       })
-      resolve(); 
-    })
+
+      //Lager nyheter
+      results.data.nyheter.edges.forEach(({node}) => {
+        createPage({
+          path: `/${node.frontmatter.slug}`,
+          component: path.resolve('./src/components/newsLayout.js'),
+          context: {
+            slug: node.frontmatter.slug,
+          }
+        })
+      })
+
+      // Lager fotoalbum
+      results.data.fotoalbum.edges.forEach(({node}) => {
+        createPage({
+          path: `/${node.frontmatter.slug}`,
+          component: path.resolve('./src/components/fotoLayout.js'),
+          context: {
+            slug: node.frontmatter.slug,
+          }
+        })
+      })
+
   })
 }
