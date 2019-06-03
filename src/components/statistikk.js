@@ -16,9 +16,10 @@ export class Statistikk extends Component {
       <ul>
         <li>15 mål: Even Egeberg og Lars Mikalsen</li>
         <li>14 mål: David Arnesen og Trond Søby</li>
-        <li>5 mål: Espen Arnesen, Magnus Grønsveen, Jon Arne Johansen og Henrik Mellum</li>
-        <li>4 mål: Dag Grytli, Øyvind Monsen, Ole Johnny Sundt og Magne Søby</li>
-        <li>3 mål: Hans Magnus Gjerlaug, Vegard Grandum, Amund Torp og Øyvind Torp</li>
+        <li>7 mål: Magnus Grønsveen</li>
+        <li>5 mål: Espen Arnesen, Jon Arne Johansen, Ole Johnny Sundt og Henrik Mellum</li>
+        <li>4 mål: Dag Grytli, Øyvind Monsen, Magne Søby og Øyvind Torp</li>
+        <li>3 mål: Hans Magnus Gjerlaug, Vegard Grandum og Amund Torp</li>
         <li>2 mål: Torstein Frogner og Cato Olastuen</li>
         <li>1 mål: Brage Bevolden, Kristian Mykleset, Gudmund Velle og Sindre Øverstad </li>
       </ul>
@@ -30,6 +31,7 @@ export class Statistikk extends Component {
       </ul>
 
       <h3>Stjernehimmelen</h3>
+      <p><em>Ikke oppdatert med kamp 18.</em></p>
       <ul>
         <li>33 stjerner: Dag Grytli</li>
         <li>25 stjerner: Trond Søby</li>
@@ -46,18 +48,20 @@ export class Statistikk extends Component {
       </ul>
 
       <h3>Kamper spilt </h3>
-      <li>17 kamper: Even Egeberg, Lars Mikalsen og Trond Søby</li>
-      <li>16 kamper: Torstein Frogner, Dag Grytli og Ole Johnny Sundt</li>
-      <li>15 kamper: Brage Bevolden</li>
-      <li>14 kamper: David Arnesen, Cato Olastuen, Magne Søby og Amund Torp</li>
-      <li>13 kamper: Henrik Mellum</li>
-      <li>12 kamper: Espen Arnesen og Kristian Mykleset og Sindre Øverstad</li>
-      <li>10 kamper: Magnus Grønsveen  </li>
-      <li>9 kamper: Remi Farmen, Vegard Grandum og Øyvind Monsen</li>
+      <li>18 kamper: Even Egeberg, Lars Mikalsen og Trond Søby</li>
+      <li>17 kamper: Torstein Frogner og Ole Johnny Sundt</li>
+      <li>16 kamper: Brage Bevolden og Dag Grytli</li>
+      <li>15 kamper: David Arnesen, Cato Olastuen, Magne Søby og Amund Torp</li>
+      <li>13 kamper: Espen Arnesen, Henrik Mellum og Sindre Øverstad</li>
+      <li>12 kamper: Kristian Mykleset</li>
+      <li>11 kamper: Magnus Grønsveen</li>
+      <li>10 kamper: Øyvind Monsen  </li>
+      <li>9 kamper: Remi Farmen og Vegard Grandum</li>
       <li>6 kamper: Edvard Erken, Hans Magnus Gjerlaug og Jon Arne Johansen.</li>
-      <li>3 kamper: Øyvind Fladsrud og Øyvind Torp.</li>
+      <li>4 kamper: Øyvind Torp.</li>
+      <li>3 kamper: Øyvind Fladsrud.</li>
       <li>2 kamper: Gudmund Velle.</li>
-      <li>1 kamp: Anders Busterud, Sindre Eide og Lars Mathias Nes.</li>
+      <li>1 kamp: Simen Arnesen, Anders Busterud, Sindre Eide og Lars Mathias Nes.</li>
       
     </StatistikkWrapper>
     )

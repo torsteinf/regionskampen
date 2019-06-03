@@ -78,13 +78,6 @@ module.exports = {
         name: `fotoalbum`
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/images/spillere`,
-        name: `spillere`
-      },
-    },
     "gatsby-transformer-json",
     {
       resolve: `gatsby-source-filesystem`,
