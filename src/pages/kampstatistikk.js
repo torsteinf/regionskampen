@@ -7,7 +7,7 @@ import Kamper from '../components/kamper'
 
 const KampstatistikkPage = ({location}) => (
   <Layout location={location}>
-    <SEO title="Kampene" />
+    <SEO title="Liste over alle regionskamper" />
     <Kamper />
   </Layout>
 )

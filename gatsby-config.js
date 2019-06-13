@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Regionskampen`,
-    description: `Ridabu mot Ingeberg. En kamp i året.`,
+    description: `Ridabu mot Ingeberg. En kamp i året, hvert år siden 2003. Kampen spilles på Black River Park, Hjellum.`,
     author: `Torstein Frogner`,
     siteUrl: `https://regionskampen.net`
   },
@@ -48,6 +48,12 @@ module.exports = {
             subsets: [`latin`],
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://regionskampen.net`,
       },
     },
     {

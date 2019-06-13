@@ -5,7 +5,7 @@ import Arkiv from "../components/archive"
 
 const ArkivPage = ({location}) => (
   <Layout location={location}>
-    <SEO title="Arkiv" />
+    <SEO title="Arkiv for regionskampen mellom Ingeberg og Ridabu." />
     <Arkiv />
   </Layout>
 )

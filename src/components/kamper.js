@@ -140,10 +140,18 @@ export class Kamper extends Component {
       </KampBoks>
       <KampBoks>
         <KampBoksOverskrift>26. mai 2018: Ridabu-Ingeberg 1 - 2</KampBoksOverskrift>
-          Målskårere: E. Arnesen - Ridabu. Grønsveen og Egeberg - Ingeberg. 
+          Målskårere: E. Arnesen - Ridabu. Grønsveen og Egeberg - Ingeberg. <br />
+          Stjerner Ingeberg: M. Søby (3), Grønsveen (2), Olastuen (1).<br />
+          Stjerner Ridabu: D. Arnesen (3), Grytli (2), E. Arnesen (1). <br />
+          <Link to="/kamprapporter/sundts-avskjed-ga-ikke-resultat">Kamprapport: Sundts avskjed ga ikke resultat</Link>
+      </KampBoks>
+      <KampBoks>
+        <KampBoksOverskrift>1. juni 2019: Ridabu-Ingeberg 2 - 2</KampBoksOverskrift>
+           Målskårere: Ø. Torp og Sundt - Ridabu. Grønsveen (2) - Ingeberg.
           {/* <br />
-          Stjerner Ingeberg: (3), (2), (1).<br />
-          Stjerner Ridabu: (3), (2), (1).  */}
+          Stjerner Ingeberg:  (3),  (2), (1).<br />
+          Stjerner Ridabu:  (3),  (2),  (1). 
+          <Link to=""></Link> */}
       </KampBoks>
       </div>
     )

@@ -5,7 +5,7 @@ import Statistikk from '../components/statistikk'
 
 const StatistikkPage = ({location}) => (
   <Layout location={location}>
-    <SEO title="Statistikk" />
+    <SEO title="Statistikk: Målskårere, kort, stjerner og antall kamper" />
     <Statistikk />
   </Layout>
 )

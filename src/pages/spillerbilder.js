@@ -60,49 +60,49 @@ export const squareImage = graphql`
 export default ({ data }) => {
   return (
     <Layout>
-      <SEO title="Spillere" />
+      <SEO title="Spillere fra Ingeberg og Ridabu" />
       <SpillergalleriWrapper>
         <h1>Ingeberg</h1>
         <Bildegalleri>
           <div className="navn">
             <Bildetekst>Brage Bevolden</Bildetekst>
-            <Img fluid={data.brageb.childImageSharp.fluid} />
+            <Img fluid={data.brageb.childImageSharp.fluid} alt="Brage Bevolden" />
           </div>
           <div className="navn">
             <Bildetekst>Cato Olastuen</Bildetekst>
-            <Img fluid={data.catoo.childImageSharp.fluid} />
+            <Img fluid={data.catoo.childImageSharp.fluid} alt="Cato Olastuen"/>
           </div>
           <div className="navn">
             <Bildetekst>Even Egeberg</Bildetekst>
-            <Img fluid={data.evene.childImageSharp.fluid} />
+            <Img fluid={data.evene.childImageSharp.fluid} alt="Even Egeberg"/>
           </div>
           <div className="navn">
             <Bildetekst>Kristian Mykleset</Bildetekst>
-            <Img fluid={data.kristianm.childImageSharp.fluid} />
+            <Img fluid={data.kristianm.childImageSharp.fluid} alt="Kristian Mykleset"/>
           </div>
           <div className="navn">
             <Bildetekst>Lars Mikalsen</Bildetekst>
-            <Img fluid={data.larsm.childImageSharp.fluid} />
+            <Img fluid={data.larsm.childImageSharp.fluid} alt="Lars Mikalsen"/>
           </div>
           <div className="navn">
             <Bildetekst>Magne Søby</Bildetekst>
-            <Img fluid={data.magnes.childImageSharp.fluid} />
+            <Img fluid={data.magnes.childImageSharp.fluid} alt="Magne Søby"/>
           </div>
           <div className="navn">
             <Bildetekst>Magnus Grønsveen</Bildetekst>
-            <Img fluid={data.magnusg.childImageSharp.fluid} />
+            <Img fluid={data.magnusg.childImageSharp.fluid} alt="Magnus Grønsveen"/>
           </div>
           <div className="navn">
             <Bildetekst>Remi Farmen</Bildetekst>
-            <Img fluid={data.remif.childImageSharp.fluid} />
+            <Img fluid={data.remif.childImageSharp.fluid} alt="Remi Farmen"/>
           </div>
           <div className="navn">
             <Bildetekst>Sindre Øverstad</Bildetekst>
-            <Img fluid={data.sindreo.childImageSharp.fluid} />
+            <Img fluid={data.sindreo.childImageSharp.fluid} alt="Sindre Øverstad"/>
           </div>
           <div className="navn">
             <Bildetekst>Trond Søby</Bildetekst>
-            <Img fluid={data.tronds.childImageSharp.fluid} />
+            <Img fluid={data.tronds.childImageSharp.fluid} alt="Trond Søby"/>
           </div>
         </Bildegalleri>
 
@@ -110,47 +110,47 @@ export default ({ data }) => {
         <Bildegalleri>
           <div className="navn">
             <Bildetekst>Amund Torp</Bildetekst>
-            <Img fluid={data.amundt.childImageSharp.fluid} />
+            <Img fluid={data.amundt.childImageSharp.fluid} alt="Amund Torp"/>
           </div>
           <div className="navn">
             <Bildetekst>Dag Grytli</Bildetekst>
-            <Img fluid={data.dagg.childImageSharp.fluid} />
+            <Img fluid={data.dagg.childImageSharp.fluid} alt="Dag Grytli"/>
           </div>
           <div className="navn">
             <Bildetekst>David Arnesen</Bildetekst>
-            <Img fluid={data.davida.childImageSharp.fluid} />
+            <Img fluid={data.davida.childImageSharp.fluid} alt="David Arnesen"/>
           </div>
           <div className="navn">
             <Bildetekst>Espen Arnesen</Bildetekst>
-            <Img fluid={data.espena.childImageSharp.fluid} />
+            <Img fluid={data.espena.childImageSharp.fluid} alt="Espen Arnesen"/>
           </div>
           <div className="navn">
             <Bildetekst>Hans Magnus Gjerlaug</Bildetekst>
-            <Img fluid={data.hansmagnusg.childImageSharp.fluid} />
+            <Img fluid={data.hansmagnusg.childImageSharp.fluid} alt="Hans Magnus Gjerlaug"/>
           </div>
           <div className="navn">
             <Bildetekst>Henrik Mellum</Bildetekst>
-            <Img fluid={data.henrikm.childImageSharp.fluid} />
+            <Img fluid={data.henrikm.childImageSharp.fluid} alt="Henrik Mellum"/>
           </div>
           <div className="navn">
             <Bildetekst>Jon Arne Johansen</Bildetekst>
-            <Img fluid={data.jonarnej.childImageSharp.fluid} />
+            <Img fluid={data.jonarnej.childImageSharp.fluid} alt="Jon Arne Johansen"/>
           </div>
           <div className="navn">
             <Bildetekst>Ole Johnny Sundt</Bildetekst>
-            <Img fluid={data.olejohnnys.childImageSharp.fluid} />
+            <Img fluid={data.olejohnnys.childImageSharp.fluid} alt="Ole Johnny Sundt"/>
           </div>
           <div className="navn">
             <Bildetekst>Øyvind Monsen</Bildetekst>
-            <Img fluid={data.oyvindm.childImageSharp.fluid} />
+            <Img fluid={data.oyvindm.childImageSharp.fluid} alt="Øyvind Monsen"/>
           </div>
           <div className="navn">
             <Bildetekst>Torstein Frogner</Bildetekst>
-            <Img fluid={data.torsteinf.childImageSharp.fluid} />
+            <Img fluid={data.torsteinf.childImageSharp.fluid} alt="Torstein Frogner"/>
           </div>
           <div className="navn">
             <Bildetekst>Vegard Grandum</Bildetekst>
-            <Img fluid={data.vegardg.childImageSharp.fluid} />
+            <Img fluid={data.vegardg.childImageSharp.fluid} alt="Vegard Grandum"/>
           </div>
         </Bildegalleri>
       </SpillergalleriWrapper>

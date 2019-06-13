@@ -82,7 +82,7 @@ const Listing = () => (
         allMarkdownRemark.edges.map(edge => (
           <Post key={edge.node.frontmatter.slug}>
             <Link to={`/${edge.node.frontmatter.slug}`}>
-            <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} />
+            <Img fluid={edge.node.frontmatter.bilde.childImageSharp.fluid} alt="" />
               <h2>{edge.node.frontmatter.title}</h2>
             </Link>
             <div>{edge.node.frontmatter.ingress}</div>

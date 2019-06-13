@@ -5,7 +5,7 @@ import Listing from "../components/listing"
 
 const IndexPage = ({location}) => (
   <Layout location={location}>
-    <SEO title="Forside" />
+    <SEO title="Ridabu mot Ingeberg. En kamp i året siden 2003." />
     <Listing />
   </Layout>
 )
