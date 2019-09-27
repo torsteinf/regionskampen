@@ -908,10 +908,10 @@
     "@babel/plugin-transform-react-jsx-self" "^7.0.0"
     "@babel/plugin-transform-react-jsx-source" "^7.0.0"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.1", "@babel/runtime@^7.4.2", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5":
-  version "7.5.5"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.5.5.tgz#74fba56d35efbeca444091c7850ccd494fd2f132"
-  integrity sha512-28QvEGyQyNkB0/m2B4FU7IEZGK2NUrcMtT6BZEFALTguLk+AUT6ofsHtPk5QyjAdUkpMJ+/Em+quwz4HOt30AQ==
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.1", "@babel/runtime@^7.4.2", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.2":
+  version "7.6.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.6.2.tgz#c3d6e41b304ef10dcf13777a33e7694ec4a9a6dd"
+  integrity sha512-EXxN64agfUqqIGeEjI5dL5z0Sw0ZwWo1mLTi4mQowCZ42O59b7DRpZAnTC6OqdF28wMBMFKNb/4uFGrVaigSpg==
   dependencies:
     regenerator-runtime "^0.13.2"
 
@@ -5749,12 +5749,12 @@ gatsby-page-utils@^0.0.12:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
-gatsby-plugin-canonical-urls@^2.1.5:
-  version "2.1.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.1.5.tgz#ab167e34228b3a44ca88ba99dc1674f82aa5b525"
-  integrity sha512-0hQl6SLGrMaxw6VdSN8dFyTCCNxYobh7Rih6g1VjNPcnSC7ebYuX2/bY6LKbXbWXux4pg+pGUAfTDgsb5adooQ==
+gatsby-plugin-canonical-urls@^2.1.10:
+  version "2.1.10"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.1.10.tgz#39221ae3741a5bf9def45cbc2d9710582e12381a"
+  integrity sha512-STSaQcZTAj1xtT1/1q/ujfyq481BCpX89h+beQ+X/+Jr76eIk6y0r7IwwANIzGnParx++OGan2gBi3CStIS8YQ==
   dependencies:
-    "@babel/runtime" "^7.5.5"
+    "@babel/runtime" "^7.6.2"
 
 gatsby-plugin-google-analytics@^2.1.14:
   version "2.1.14"
