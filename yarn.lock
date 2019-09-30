@@ -5841,16 +5841,16 @@ gatsby-plugin-react-helmet@^3.1.3:
   dependencies:
     "@babel/runtime" "^7.0.0"
 
-gatsby-plugin-sharp@^2.2.18:
-  version "2.2.18"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.18.tgz#ead245da14fe6aa725ce042922646f044df30b5a"
-  integrity sha512-zovRg8fQIp5dpbXjfzD6WJFKxsjPDU11sBo1h5KsoZOoVZC0q2dwzXR0AM7ikCuLWbhhRhCUzUocy8+UNnqFCw==
+gatsby-plugin-sharp@^2.2.27:
+  version "2.2.27"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.27.tgz#8374915e55c4b156f4ad661c1ec94e23999b0b33"
+  integrity sha512-4tcHGYs2pWEs6pHVjdqqMgfZ7/+6RoWy4ohlCssz8CDuVOIFFYAUvRbYSViZ833ZkqYINLG26lNrTgUibmvE2Q==
   dependencies:
-    "@babel/runtime" "^7.5.5"
+    "@babel/runtime" "^7.6.2"
     async "^2.6.3"
     bluebird "^3.5.5"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^1.0.6"
+    gatsby-core-utils "^1.0.12"
     got "^8.3.2"
     imagemin "^6.1.0"
     imagemin-mozjpeg "^8.0.0"
@@ -5862,8 +5862,9 @@ gatsby-plugin-sharp@^2.2.18:
     probe-image-size "^4.1.1"
     progress "^2.0.3"
     semver "^5.7.1"
-    sharp "^0.23.0"
+    sharp "^0.23.1"
     svgo "^1.3.0"
+    uuid "^3.3.3"
 
 gatsby-plugin-sitemap@^2.2.16:
   version "2.2.16"
@@ -11952,7 +11953,7 @@ sharp@^0.22.1:
     tar "^4.4.8"
     tunnel-agent "^0.6.0"
 
-sharp@^0.23.0, sharp@^0.23.1:
+sharp@^0.23.1:
   version "0.23.1"
   resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.23.1.tgz#28f930c1677f219b448dee4d28d04a69dc0966aa"
   integrity sha512-xt1SOwC5ewuqApBzKMFQ5VaRsC3GjOl1xklsnPNAAG7KWEAi50STFrVwjxFRe4puZ/59JU0QQqoFe7TZNnXd/g==
