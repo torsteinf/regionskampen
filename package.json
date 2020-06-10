@@ -6,7 +6,7 @@
   "author": "Torstein Frogner <tfrogner@gmail.com>",
   "dependencies": {
     "@mdx-js/mdx": "^0.20.2",
-    "@mdx-js/tag": "^0.18.0",
+    "@mdx-js/tag": "^0.20.3",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.23.1",
     "gatsby-cli": "^2.12.45",
