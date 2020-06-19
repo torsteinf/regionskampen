@@ -7038,12 +7038,12 @@ gatsby-page-utils@^0.2.9:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-canonical-urls@^2.1.10:
-  version "2.1.10"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.1.10.tgz#39221ae3741a5bf9def45cbc2d9710582e12381a"
-  integrity sha512-STSaQcZTAj1xtT1/1q/ujfyq481BCpX89h+beQ+X/+Jr76eIk6y0r7IwwANIzGnParx++OGan2gBi3CStIS8YQ==
+gatsby-plugin-canonical-urls@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.3.4.tgz#16db63d1c278414511170220f453757f12ec9517"
+  integrity sha512-7azyfZEL1TrsQada/3SbeQlgKnJ/MphyyNZwfIGFU4rVhUgAe3nG3KbOXcDmSCh2fv/+15pNTfC6ZNNMjFvsAQ==
   dependencies:
-    "@babel/runtime" "^7.6.2"
+    "@babel/runtime" "^7.10.2"
 
 gatsby-plugin-google-analytics@^2.3.4:
   version "2.3.4"
