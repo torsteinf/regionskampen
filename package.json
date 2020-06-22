@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Torstein Frogner <tfrogner@gmail.com>",
   "dependencies": {
-    "@mdx-js/mdx": "^0.20.2",
+    "@mdx-js/mdx": "^1.6.6",
     "@mdx-js/tag": "^0.20.3",
     "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.23.4",
